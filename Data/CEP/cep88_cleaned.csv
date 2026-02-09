@@ -1,0 +1,733 @@
+gender,age_group,region,zona,gse_group,education,indigenous,religion,ideology,interest_politics,presidential_vote,plebiscite_vote,abortion_opinion
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,MAULE,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,nulo,Reject,Always illegal
+Woman,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,nulo,nulo,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,High,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Young Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,nulo,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Low,Medium,Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,nulo,Reject,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,VALPARAÍSO,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,nulo,nulo,Always illegal
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Young Adult,BIOBÍO,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,nulo,Approve,Legal only in specific cases
+Man,Adult,MAULE,Urban,Low,Medium,Non-Indigenous,Religious,Center,Very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Indigenous,Not Religious,Left,Not at all interested,nulo,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Very interested,José Antonio Kast,Reject,Always illegal
+Man,Senior Adult,COQUIMBO,Urban,Middle,High,Non-Indigenous,Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Low,Low,Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always illegal
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,ARAUCANÍA,Rural,Low,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ARAUCANÍA,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,ARAUCANÍA,Urban,Low,Medium,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,nulo,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,ÑUBLE,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,ÑUBLE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,High,High,Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,ÑUBLE,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,ÑUBLE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,ARAUCANÍA,Urban,Middle,Medium,Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,ARAUCANÍA,Urban,Middle,Medium,Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,MAULE,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,None,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,ARAUCANÍA,Rural,Middle,Medium,Non-Indigenous,Religious,None,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ARAUCANÍA,Rural,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,BIOBÍO,Urban,Low,High,Non-Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Low,Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Low,Low,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Senior Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Low,Low,Indigenous,Religious,Right,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Senior Adult,LOS LAGOS,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,ARAUCANÍA,Urban,Middle,Low,Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always illegal
+Man,Senior Adult,ARAUCANÍA,Urban,Middle,Medium,Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,ARAUCANÍA,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Low,High,Non-Indigenous,Not Religious,None,Not at all interested,nulo,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,MAULE,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Man,Senior Adult,MAULE,Rural,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,MAULE,Rural,Low,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,ANTOFAGASTA,Urban,Low,Low,Non-Indigenous,Religious,Right,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ANTOFAGASTA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,COQUIMBO,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Low,Non-Indigenous,Not Religious,Center,Not at all interested,nulo,Reject,Legal only in specific cases
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Low,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Religious,Center,Very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Low,Low,Indigenous,Not Religious,None,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,ARAUCANÍA,Urban,Low,Low,Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always illegal
+Man,Adult,ANTOFAGASTA,Urban,High,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,nulo,Reject,Legal only in specific cases
+Man,Adult,MAULE,Rural,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Senior Adult,MAULE,Rural,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,MAULE,Rural,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always illegal
+Woman,Senior Adult,MAULE,Rural,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,nulo,Reject,Always illegal
+Woman,Senior Adult,MAULE,Rural,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,MAULE,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,MAULE,Rural,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,ANTOFAGASTA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not at all interested,nulo,Reject,Always illegal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Rural,Low,Low,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Rural,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Rural,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,METROPOLITANA,Rural,Low,Medium,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,nulo,nulo,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,LOS LAGOS,Rural,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,LOS LAGOS,Rural,Middle,High,Non-Indigenous,Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,nulo,nulo,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Approve,Always illegal
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Rural,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Adult,LOS LAGOS,Rural,Middle,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Rural,Low,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,COQUIMBO,Rural,Middle,Low,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,COQUIMBO,Rural,Middle,Low,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,ARAUCANÍA,Rural,Low,Low,Non-Indigenous,Not Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,nulo,Always legal
+Man,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Low,Medium,Non-Indigenous,Not Religious,None,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,VALPARAÍSO,Rural,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Rural,Low,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Rural,Middle,Medium,Non-Indigenous,Religious,Left,Not at all interested,José Antonio Kast,Approve,Always legal
+Man,Senior Adult,VALPARAÍSO,Rural,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Indigenous,Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Low,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS RÍOS,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,Left,Not at all interested,nulo,Approve,Always legal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Young Adult,ANTOFAGASTA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,ANTOFAGASTA,Urban,High,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Young Adult,LOS RÍOS,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,ANTOFAGASTA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Young Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,MAULE,Urban,Low,Low,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,MAULE,Urban,Low,Low,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Somewhat interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Always illegal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,High,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,High,High,Non-Indigenous,Not Religious,Center,Not very interested,nulo,nulo,Always legal
+Woman,Adult,BIOBÍO,Urban,High,Medium,Non-Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Approve,Legal only in specific cases
+Woman,Adult,ÑUBLE,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,BIOBÍO,Urban,Low,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Low,Medium,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,BIOBÍO,Urban,Low,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,ARAUCANÍA,Rural,Low,Low,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,ARAUCANÍA,Rural,Low,Medium,Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,LOS RÍOS,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always illegal
+Woman,Senior Adult,LOS RÍOS,Rural,Middle,Low,Indigenous,Religious,Left,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,nulo,Reject,Always illegal
+Woman,Young Adult,LOS RÍOS,Rural,Middle,Medium,Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,LOS RÍOS,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,LOS LAGOS,Rural,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always illegal
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,LOS LAGOS,Urban,Low,Low,Non-Indigenous,Religious,Right,Not at all interested,Gabriel Boric,Reject,Always illegal
+Woman,Senior Adult,LOS LAGOS,Urban,Low,Low,Non-Indigenous,Religious,Right,Not at all interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,LOS LAGOS,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Young Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,High,Non-Indigenous,Religious,Center,Very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,MAULE,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Not at all interested,nulo,Reject,Legal only in specific cases
+Man,Senior Adult,ARAUCANÍA,Rural,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,LOS RÍOS,Rural,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,nulo,Legal only in specific cases
+Woman,Young Adult,LOS RÍOS,Rural,Middle,Medium,Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,LOS RÍOS,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS RÍOS,Rural,Middle,Low,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,LOS RÍOS,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,LOS RÍOS,Rural,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,LOS RÍOS,Rural,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Not Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Not Religious,Center,Very interested,nulo,Reject,Legal only in specific cases
+Woman,Adult,LOS RÍOS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Man,Senior Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,LOS RÍOS,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Not Religious,None,Not very interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,LOS RÍOS,Urban,Middle,Medium,Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,LOS RÍOS,Urban,Middle,Medium,Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Low,Non-Indigenous,Not Religious,Center,Not at all interested,nulo,nulo,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,nulo,Approve,Legal only in specific cases
+Man,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,ANTOFAGASTA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,nulo,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ARAUCANÍA,Urban,Low,Low,Non-Indigenous,Not Religious,None,Not very interested,José Antonio Kast,Approve,Legal only in specific cases
+Man,Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Approve,Always legal
+Woman,Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,AYSÉN,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Indigenous,Not Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Not Religious,Center,Not very interested,nulo,Approve,Legal only in specific cases
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Rural,Low,Low,Non-Indigenous,Religious,None,Not at all interested,nulo,Reject,Always illegal
+Woman,Senior Adult,VALPARAÍSO,Rural,Low,Low,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Rural,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Rural,Middle,Low,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Indigenous,Religious,Right,Very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Approve,Always illegal
+Woman,Senior Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not at all interested,José Antonio Kast,Approve,Always illegal
+Woman,Young Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,MAGALLANES,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Rural,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Rural,Middle,High,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Rural,Middle,High,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Right,Somewhat interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Man,Senior Adult,ARAUCANÍA,Rural,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,ÑUBLE,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,nulo,nulo,Always illegal
+Man,Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,ÑUBLE,Rural,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,ARAUCANÍA,Rural,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Senior Adult,TARAPACÁ,Urban,Middle,Low,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,TARAPACÁ,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,TARAPACÁ,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,COQUIMBO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,MAGALLANES,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,nulo,Reject,Legal only in specific cases
+Man,Adult,ARICA Y PARINACOTA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,nulo,Reject,Always illegal
+Woman,Adult,MAGALLANES,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,MAGALLANES,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,BIOBÍO,Rural,Middle,Medium,Non-Indigenous,Religious,Left,Not at all interested,nulo,Reject,Legal only in specific cases
+Woman,Senior Adult,BIOBÍO,Rural,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,BIOBÍO,Rural,Low,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always illegal
+Man,Adult,BIOBÍO,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,nulo,Legal only in specific cases
+Woman,Adult,BIOBÍO,Rural,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,nulo,Always illegal
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Rural,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always illegal
+Man,Young Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Indigenous,Religious,Left,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Not Religious,Center,Very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Left,Not very interested,nulo,Reject,Always illegal
+Woman,Senior Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,MAULE,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,MAULE,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,nulo,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,High,Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,LOS RÍOS,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS RÍOS,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Not Religious,None,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,nulo,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,COQUIMBO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ÑUBLE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,nulo,Always illegal
+Man,Senior Adult,ÑUBLE,Urban,Low,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Reject,Always illegal
+Man,Young Adult,ÑUBLE,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,ÑUBLE,Urban,Low,Low,Non-Indigenous,Not Religious,Center,Not at all interested,José Antonio Kast,Approve,Always legal
+Man,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,BIOBÍO,Urban,Low,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Young Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,LOS RÍOS,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not at all interested,nulo,Reject,Legal only in specific cases
+Man,Senior Adult,MAULE,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,nulo,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Left,Not at all interested,nulo,Reject,Always illegal
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always illegal
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,MAULE,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,ARAUCANÍA,Urban,Middle,High,Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,ARAUCANÍA,Urban,Middle,Medium,Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,LOS LAGOS,Urban,Middle,Medium,Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,COQUIMBO,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,LOS LAGOS,Urban,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always illegal
+Man,Adult,LOS LAGOS,Urban,Middle,High,Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Not Religious,Left,Not very interested,nulo,nulo,Always illegal
+Woman,Young Adult,ANTOFAGASTA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,nulo,nulo,Legal only in specific cases
+Man,Young Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Always illegal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,LOS LAGOS,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,ÑUBLE,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,LIBERTADOR BERNARDO OHIGGINS,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,LIBERTADOR BERNARDO OHIGGINS,Rural,Middle,Medium,Non-Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,MAULE,Urban,Low,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,ÑUBLE,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always illegal
+Man,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Rural,Middle,Low,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always illegal
+Man,Adult,ARAUCANÍA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Senior Adult,MAULE,Rural,Low,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,MAULE,Rural,Middle,Low,Non-Indigenous,Religious,Left,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Man,Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,nulo,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,MAULE,Rural,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,MAULE,Rural,Middle,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,MAGALLANES,Urban,Middle,High,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Right,Very interested,José Antonio Kast,Reject,Always illegal
+Man,Young Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ÑUBLE,Urban,Low,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Reject,Always illegal
+Woman,Senior Adult,ÑUBLE,Urban,Middle,High,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,ÑUBLE,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Young Adult,MAULE,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Low,Medium,Non-Indigenous,Not Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,ARAUCANÍA,Urban,Middle,High,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,COQUIMBO,Urban,High,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,BIOBÍO,Urban,Middle,Low,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,COQUIMBO,Urban,Middle,High,Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,ARICA Y PARINACOTA,Urban,Low,Low,Non-Indigenous,Religious,Center,Very interested,Gabriel Boric,Reject,Always illegal
+Man,Adult,COQUIMBO,Urban,High,High,Non-Indigenous,Not Religious,Center,Very interested,nulo,Reject,Always legal
+Woman,Senior Adult,BIOBÍO,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,COQUIMBO,Rural,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,COQUIMBO,Rural,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Senior Adult,COQUIMBO,Rural,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,nulo,Legal only in specific cases
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,ARICA Y PARINACOTA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,COQUIMBO,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always illegal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Not Religious,None,Somewhat interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,nulo,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,High,Non-Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Senior Adult,COQUIMBO,Urban,Middle,Low,Non-Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,COQUIMBO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Always legal
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Religious,None,Somewhat interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Low,Medium,Indigenous,Religious,Left,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,MAGALLANES,Urban,Middle,Low,Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,MAGALLANES,Urban,Middle,Medium,Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,MAGALLANES,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Approve,Legal only in specific cases
+Man,Adult,MAGALLANES,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Young Adult,METROPOLITANA,Urban,Low,Medium,Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Rural,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Rural,Middle,Medium,Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Young Adult,METROPOLITANA,Urban,Low,High,Non-Indigenous,Not Religious,Right,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Young Adult,COQUIMBO,Urban,High,Medium,Non-Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Young Adult,ARICA Y PARINACOTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Man,Adult,COQUIMBO,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,ARAUCANÍA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Low,Medium,Non-Indigenous,Religious,Left,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,BIOBÍO,Rural,Low,Low,Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,BIOBÍO,Rural,Middle,Low,Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,BIOBÍO,Rural,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,MAULE,Urban,Low,Medium,Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,COQUIMBO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,COQUIMBO,Urban,Low,Low,Non-Indigenous,Religious,Right,Not at all interested,nulo,nulo,Legal only in specific cases
+Woman,Young Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,nulo,nulo,Always illegal
+Woman,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,nulo,Approve,Always legal
+Woman,Young Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,nulo,Always illegal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Rural,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,LOS LAGOS,Rural,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,LOS LAGOS,Rural,Low,Low,Indigenous,Religious,Left,Not at all interested,nulo,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Rural,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Indigenous,Not Religious,Center,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Low,Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,nulo,nulo,Always legal
+Man,Adult,ARICA Y PARINACOTA,Urban,Middle,Medium,Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,ARICA Y PARINACOTA,Urban,Middle,Medium,Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,ATACAMA,Urban,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Young Adult,ARICA Y PARINACOTA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,BIOBÍO,Urban,Middle,Low,Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,TARAPACÁ,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,TARAPACÁ,Urban,Middle,Medium,Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Approve,Always illegal
+Man,Young Adult,VALPARAÍSO,Urban,Low,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,COQUIMBO,Rural,Low,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,nulo,nulo,Always illegal
+Woman,Senior Adult,MAULE,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not very interested,nulo,Reject,Always legal
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,ARICA Y PARINACOTA,Urban,Middle,Low,Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Man,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,ANTOFAGASTA,Urban,Low,Medium,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,COQUIMBO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,nulo,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,LOS LAGOS,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not very interested,nulo,Reject,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,VALPARAÍSO,Urban,Low,Medium,Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,MAULE,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,nulo,Reject,Always illegal
+Man,Young Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,nulo,Reject,Legal only in specific cases
+Woman,Adult,LOS LAGOS,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Approve,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always illegal
+Man,Senior Adult,ATACAMA,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not at all interested,José Antonio Kast,Approve,Always legal
+Woman,Adult,ATACAMA,Urban,Middle,Medium,Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,ATACAMA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,ATACAMA,Urban,Middle,Medium,Indigenous,Not Religious,Center,Not at all interested,José Antonio Kast,Approve,Always legal
+Man,Adult,ATACAMA,Urban,Low,Low,Indigenous,Not Religious,None,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,ATACAMA,Urban,Low,Low,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,COQUIMBO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Right,Very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Not Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always illegal
+Man,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,MAULE,Urban,Low,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Young Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Adult,TARAPACÁ,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always illegal
+Man,Young Adult,LIBERTADOR BERNARDO OHIGGINS,Urban,Middle,Low,Non-Indigenous,Not Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Not Religious,Center,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Right,Not very interested,Gabriel Boric,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Left,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,VALPARAÍSO,Urban,Low,Low,Non-Indigenous,Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Non-Indigenous,Religious,None,Not at all interested,nulo,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Not Religious,None,Not very interested,nulo,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always illegal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Low,Non-Indigenous,Religious,Right,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Young Adult,METROPOLITANA,Urban,Middle,Medium,Indigenous,Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Young Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Left,Somewhat interested,Gabriel Boric,Reject,Always legal
+Man,Adult,METROPOLITANA,Rural,Low,Low,Non-Indigenous,Not Religious,Right,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Young Adult,METROPOLITANA,Rural,Low,Medium,Non-Indigenous,Not Religious,None,Not at all interested,nulo,nulo,Always legal
+Man,Adult,METROPOLITANA,Rural,Low,Low,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Not Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Legal only in specific cases
+Man,Adult,COQUIMBO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Center,Somewhat interested,nulo,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Low,Indigenous,Not Religious,Left,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,High,Medium,Non-Indigenous,Not Religious,Left,Very interested,Gabriel Boric,Approve,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Reject,Always legal
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always illegal
+Man,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not very interested,José Antonio Kast,Reject,Always illegal
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Approve,Always illegal
+Woman,Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Not Religious,None,Not very interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,BIOBÍO,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Very interested,Gabriel Boric,Reject,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Somewhat interested,José Antonio Kast,Reject,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,High,High,Non-Indigenous,Religious,Right,Very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Man,Senior Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,José Antonio Kast,Reject,Always legal
+Woman,Senior Adult,METROPOLITANA,Urban,Middle,High,Non-Indigenous,Religious,Center,Not very interested,nulo,Reject,Always legal
+Man,Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Religious,Right,Not at all interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,VALPARAÍSO,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not very interested,José Antonio Kast,Reject,Legal only in specific cases
+Woman,Adult,LOS RÍOS,Urban,Middle,Medium,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Always legal
+Woman,Adult,AYSÉN,Urban,Middle,Low,Non-Indigenous,Not Religious,Left,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,VALPARAÍSO,Urban,Middle,High,Non-Indigenous,Not Religious,Right,Not very interested,José Antonio Kast,Reject,Always legal
+Woman,Adult,ARAUCANÍA,Urban,Middle,Low,Non-Indigenous,Religious,None,Not at all interested,José Antonio Kast,Approve,Legal only in specific cases
+Woman,Adult,METROPOLITANA,Urban,Low,Low,Indigenous,Not Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Man,Adult,METROPOLITANA,Urban,Middle,Medium,Non-Indigenous,Religious,None,Not at all interested,Gabriel Boric,Reject,Always legal
+Woman,Young Adult,VALPARAÍSO,Urban,Middle,Medium,Indigenous,Not Religious,Center,Somewhat interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Young Adult,METROPOLITANA,Urban,Low,Medium,Non-Indigenous,Religious,None,Not very interested,Gabriel Boric,Approve,Always legal
+Man,Adult,ÑUBLE,Urban,High,High,Non-Indigenous,Religious,Center,Not at all interested,Gabriel Boric,Approve,Legal only in specific cases
+Woman,Adult,ÑUBLE,Urban,Middle,Medium,Non-Indigenous,Religious,Left,Not at all interested,Gabriel Boric,Approve,Always legal
