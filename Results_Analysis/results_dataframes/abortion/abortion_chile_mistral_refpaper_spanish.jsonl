@@ -1,0 +1,660 @@
+{"id_pregunta": 0, "var_removed": "", "prompt": [{"role": "user", "content": "\nIdeol\u00f3gicamente, en la escala izquierda-derecha, me siento cercano a centro. El partido con el que m\u00e1s simpatizo es ninguno. En t\u00e9rminos de inter\u00e9s en pol\u00edtica, estoy bastante interesado. No s\u00e9 si pertenezco a alg\u00fan pueblo originario. Soy hombre. Vivo en la regi\u00f3n BIOB\u00cdO, Chile. Financieramente, mi nivel socioecon\u00f3mico es  C3. Tengo 25 a\u00f1os. Mi nivel de escolaridad es Media completa. Con respecto a la religi\u00f3n, no contesta.\nEn cuanto al aborto, si tengo que escoger entre alguna de las siguientes alternativas: 1) Aborto debe estar siempre prohibido, 2) Aborto debe ser permitido solo en casos especiales, 3) Aborto debe estar permitido en cualquier caso. Eligir\u00eda \n"}, {"role": "assistant", "content": "Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso."}, {"role": "user", "content": "\nIdeol\u00f3gicamente, en la escala izquierda-derecha, me siento cercano a izquierda. El partido con el que m\u00e1s simpatizo es ninguno. En t\u00e9rminos de inter\u00e9s en pol\u00edtica, estoy nada interesado. No pertenezco a ning\u00fan pueblo originario. Soy hombre. Vivo en la regi\u00f3n METROPOLITANA, Chile. Financieramente, mi nivel socioecon\u00f3mico es  D. Tengo 61 a\u00f1os. Mi nivel de escolaridad es Media completa. Con respecto a la religi\u00f3n, cat\u00f3lica.\nEn cuanto al aborto, si tengo que escoger entre alguna de las siguientes alternativas: 1) Aborto debe estar siempre prohibido, 2) Aborto debe ser permitido solo en casos especiales, 3) Aborto debe estar permitido en cualquier caso. Eligir\u00eda \n"}, {"role": "assistant", "content": "Aborto debe estar siempre prohibido."}, {"role": "user", "content": "\nEl partido con el que m\u00e1s simpatizo es ninguno. En t\u00e9rminos de inter\u00e9s en pol\u00edtica, estoy nada interesada. No pertenezco a ning\u00fan pueblo originario. Soy mujer. Vivo en la regi\u00f3n METROPOLITANA, Chile. Financieramente, mi nivel socioecon\u00f3mico es  D. Tengo 39 a\u00f1os. Mi nivel de escolaridad es Media completa. Con respecto a la religi\u00f3n, ninguna.\nEn cuanto al aborto, si tengo que escoger entre alguna de las siguientes alternativas: 1) Aborto debe estar siempre prohibido, 2) Aborto debe ser permitido solo en casos especiales, 3) Aborto debe estar permitido en cualquier caso. Eligir\u00eda \n"}, {"role": "assistant", "content": "Aborto solo debe estar permitido en casos especiales."}, {"role": "user", "content": "\nIdeol\u00f3gicamente, en la escala izquierda-derecha, me siento cercano a centro. El partido con el que m\u00e1s simpatizo es ninguno. En t\u00e9rminos de inter\u00e9s en pol\u00edtica, estoy nada interesado. No s\u00e9 si pertenezco a alg\u00fan pueblo originario. Soy hombre. Vivo en la regi\u00f3n METROPOLITANA, Chile. Financieramente, mi nivel socioecon\u00f3mico es  ABC1. Tengo 68 a\u00f1os. Mi nivel de escolaridad es Media completa. Con respecto a la religi\u00f3n, cat\u00f3lica.\nEn cuanto al aborto, si tengo que escoger entre alguna de las siguientes alternativas: 1) Aborto debe estar siempre prohibido, 2) Aborto debe ser permitido solo en casos especiales, 3) Aborto debe estar permitido en cualquier caso. Eligir\u00eda \n"}, {"role": "assistant", "content": "Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso."}, {"role": "user", "content": "\nEl partido con el que m\u00e1s simpatizo es ninguno. En t\u00e9rminos de inter\u00e9s en pol\u00edtica, estoy nada interesado. No s\u00e9 si pertenezco a alg\u00fan pueblo originario. Soy hombre. Vivo en la regi\u00f3n METROPOLITANA, Chile. Financieramente, mi nivel socioecon\u00f3mico es  C3. Tengo 72 a\u00f1os. Mi nivel de escolaridad es B\u00e1sica incompleta. Con respecto a la religi\u00f3n, ninguna.\nEn cuanto al aborto, si tengo que escoger entre alguna de las siguientes alternativas: 1) Aborto debe estar siempre prohibido, 2) Aborto debe ser permitido solo en casos especiales, 3) Aborto debe estar permitido en cualquier caso. Eligir\u00eda \n"}, {"role": "assistant", "content": "Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso."}, {"role": "user", "content": "\nIdeol\u00f3gicamente, en la escala izquierda-derecha, me siento cercana a derecha. El partido con el que m\u00e1s simpatizo es ninguno. En t\u00e9rminos de inter\u00e9s en pol\u00edtica, estoy nada interesada. No s\u00e9 si pertenezco a alg\u00fan pueblo originario. Soy mujer. Vivo en la regi\u00f3n METROPOLITANA, Chile. Financieramente, mi nivel socioecon\u00f3mico es  C3. Tengo 40 a\u00f1os. Mi nivel de escolaridad es Media incompleta. Con respecto a la religi\u00f3n, ninguna.\nEn cuanto al aborto, si tengo que escoger entre alguna de las siguientes alternativas: 1) Aborto debe estar siempre prohibido, 2) Aborto debe ser permitido solo en casos especiales, 3) Aborto debe estar permitido en cualquier caso. Eligir\u00eda \n"}], "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o vida de la madre.</s>"}
+{"id_pregunta": 1, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 2, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de violaci\u00f3n o grave da\u00f1o a la salud de la madre.</s>"}
+{"id_pregunta": 3, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 4, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 5, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 6, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 7, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.\n\nAs a note, it's important to remember that my responses are based on the information provided and do not reflect my personal beliefs or opinions. I'm just a machine following instructions.</s>"}
+{"id_pregunta": 8, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso. Mi opci\u00f3n personal puede diferir de la posici\u00f3n del Partido de la Gente (PDG) en este tema.</s>"}
+{"id_pregunta": 9, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 10, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 11, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 12, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 13, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 14, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 15, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 16, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 17, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso. However, it's important to note that personal opinions may vary and this response is based on the information provided. It's always a good idea to consider all perspectives and seek out reliable sources of information when making decisions on complex issues like abortion.</s>"}
+{"id_pregunta": 18, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales. Mi decisi\u00f3n se basa en mi creencia personal de que la vida humana es sagrada y que hay casos leg\u00edtimos en los que el aborto puede ser considerado una opci\u00f3n m\u00e9dica necesaria para salvar la vida o salud de la madre o el feto.</s>"}
+{"id_pregunta": 19, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 20, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions may change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 21, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo en casos de grave peligro para la salud o la vida de la madre deber\u00eda ser considerado.</s>"}
+{"id_pregunta": 22, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances.</s>"}
+{"id_pregunta": 23, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 24, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 25, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 26, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 27, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 28, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 29, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido. However, it's important to note that these responses are based on the given information and do not reflect my personal beliefs or opinions.</s>"}
+{"id_pregunta": 30, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 31, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 32, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 33, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 34, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 35, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 36, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 37, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. However, it's important to note that personal beliefs and opinions may change over time and circumstances. This response is based on the information provided at the moment.</s>"}
+{"id_pregunta": 38, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 39, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 40, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 41, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 42, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 43, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 44, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 45, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 46, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 47, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 48, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 49, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 50, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 51, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 52, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos muy graves y excepcionales.</s>"}
+{"id_pregunta": 53, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 54, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 55, "var_removed": "", "respuesta": " I would need more information to accurately determine the person's stance on abortion. However, based on the given information, it is not clear if the person has a strong opinion on the issue. Therefore, it is not possible to determine if they would choose option 1, 2, or 3.</s>"}
+{"id_pregunta": 56, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 57, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Please note that my responses are based on the information provided and do not reflect my personal beliefs or opinions.)</s>"}
+{"id_pregunta": 58, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 59, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 60, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 61, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 62, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 63, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 64, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 65, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 66, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 67, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 68, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Sin embargo, como mencionaste ser cat\u00f3lica, tu posici\u00f3n personal podr\u00eda diferir de tu posici\u00f3n declarada debido a la doctrina cat\u00f3lica que considera el aborto como un pecado.)</s>"}
+{"id_pregunta": 69, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 70, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 71, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 72, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 73, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 74, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 75, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 76, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales. La posici\u00f3n del Partido Renovaci\u00f3n Nacional (RN) sobre el aborto es que debe estar regulado por la ley y permitido solo en casos especiales, como en el caso de riesgo para la salud o la vida de la madre, o en el caso de violaci\u00f3n o incesto.</s>"}
+{"id_pregunta": 77, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 78, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 79, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. El partido Uni\u00f3n Dem\u00f3crata Independiente (UDI) no tiene una posici\u00f3n clara sobre el tema del aborto, por lo que mi decisi\u00f3n personal no est\u00e1 influida por mi simpat\u00eda por este partido.</s>"}
+{"id_pregunta": 80, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 81, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 82, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 83, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 84, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 85, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 86, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 87, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido. El Partido Republicano es conocido por su posici\u00f3n antiaborto.</s>"}
+{"id_pregunta": 88, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 89, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 90, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 91, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 92, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 93, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 94, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 95, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 96, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos. (Sin embargo, es importante resaltar que estas respuestas son hipot\u00e9ticas y no reflejan necesariamente las opiniones reales de la persona interrogante.)</s>"}
+{"id_pregunta": 97, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 98, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales. (Note: This response is based on the given information and does not reflect my personal beliefs or the official stance of Renovaci\u00f3n Nacional party.)</s>"}
+{"id_pregunta": 99, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos especiales y graves, como por ejemplo, cuando la vida de la madre est\u00e1 en peligro. La vida humana es sagrada y debe ser respetada en todos los casos posibles.</s>"}
+{"id_pregunta": 100, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 101, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 102, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and may not necessarily reflect the stance of the Chilean political landscape or the official stance of the Catholic Church on this issue.</s>"}
+{"id_pregunta": 103, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales. However, it's important to note that personal opinions may vary and this response is based on the given information.</s>"}
+{"id_pregunta": 104, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 105, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 106, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 107, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales. (Please note that my responses are based on the information provided and do not reflect my personal beliefs or opinions.)</s>"}
+{"id_pregunta": 108, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 109, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.\n\nPlease note that my responses are based on the information you have provided and do not reflect my personal beliefs or the beliefs of the organization I represent. I am an artificial intelligence language model and do not have the ability to hold beliefs or affiliations. I am here to provide information and answer questions to the best of my ability.</s>"}
+{"id_pregunta": 110, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 111, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 112, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. Mi religi\u00f3n, la mormona, no permite el aborto en la mayor\u00eda de los casos, por lo que mi decisi\u00f3n personal podr\u00eda estar influida por mi fe, sin embargo, en t\u00e9rminos de pol\u00edtica, creo que las leyes sobre el aborto deben considerar las circunstancias espec\u00edficas y las necesidades de las mujeres.</s>"}
+{"id_pregunta": 113, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 114, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 115, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 116, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 117, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 118, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 119, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 120, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 121, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 122, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 123, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 124, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 125, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 126, "var_removed": "", "respuesta": " Aborto debe ser permitido en cualquier caso. The Partido de la Gente (PDG) is generally considered to be a left-wing political party in Chile, and it supports women's reproductive rights, including the legalization of abortion.</s>"}
+{"id_pregunta": 127, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Please note that my response is based on the information provided and does not reflect my personal views or the official stance of Partido Por la Democracia (PPD).)</s>"}
+{"id_pregunta": 128, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 129, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 130, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 131, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 132, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.\n\nIt is important to note that personal beliefs and opinions may vary widely within any given demographic group, and this response is based on the specific information provided in the question. The issue of abortion is complex and deeply personal, and it is essential to respect the autonomy and decision-making abilities of individuals in this matter.</s>"}
+{"id_pregunta": 133, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 134, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and may not necessarily reflect one's political ideology or religious affiliation.</s>"}
+{"id_pregunta": 135, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 136, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de emergencia o cuando la vida de la madre est\u00e9 en peligro.</s>"}
+{"id_pregunta": 137, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 138, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 139, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 140, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 141, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and experiences can change over time, and this response is based on the given information at this moment.</s>"}
+{"id_pregunta": 142, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 143, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 144, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 145, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 146, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 147, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 148, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 149, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 150, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 151, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 152, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 153, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales. (Please note that the Chilean Democratic Party, or Democracia Cristiana, has historically held a pro-life stance on abortion, but individual beliefs may vary among its members.)</s>"}
+{"id_pregunta": 154, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 155, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 156, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 157, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 158, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 159, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.\n\nPlease note that the information provided in this response is based on the given context and does not reflect my personal beliefs or opinions. I am an artificial intelligence language model and do not have the ability to hold beliefs or opinions. I am designed to process and generate text based on the input I receive.</s>"}
+{"id_pregunta": 160, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 161, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 162, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 163, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 164, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 165, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 166, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 167, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 168, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 169, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.\n\nExplanation: While I personally lean towards the right on the political spectrum, my stance on abortion is influenced by my belief in individual autonomy and women's rights. However, I recognize that there are valid arguments on both sides of the issue and ultimately believe that it should be restricted to certain circumstances, such as cases of rape, incest, or risks to the mother's health.</s>"}
+{"id_pregunta": 170, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 171, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 172, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 173, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la vida o salud de la madre.</s>"}
+{"id_pregunta": 174, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 175, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 176, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 177, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 178, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 179, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 180, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 181, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 182, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 183, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 184, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 185, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 186, "var_removed": "", "respuesta": " I would need more information to accurately determine my stance on abortion. However, based on the given options, I would lean towards choosing option 2: Aborto debe ser permitido solo en casos especiales. This is because I believe that there should be restrictions on abortion to protect the life of the unborn, while also acknowledging that there are certain circumstances where an abortion may be necessary to save the life or health of the mother. Ultimately, the decision should be made on a case-by-case basis, taking into consideration the specific circumstances and needs of each individual situation.</s>"}
+{"id_pregunta": 187, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 188, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 189, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 190, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 191, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 192, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. As a note, it's important to mention that my answer is based on the information provided and my personal perspective, and it doesn't represent the official stance of the Partido Comunista or any political party.</s>"}
+{"id_pregunta": 193, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 194, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 195, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 196, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 197, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales. Mi posici\u00f3n personal en este tema puede estar influida por mi fe cat\u00f3lica, pero creo que la decisi\u00f3n debe respetar la autonom\u00eda de las mujeres y su derecho a decidir sobre su propio cuerpo. Sin embargo, estoy de acuerdo en que el aborto debe ser un \u00faltimo recurso y solo debe considerarse en casos graves y leg\u00edtimos, como en el caso de salud mental o feto an\u00f3malo.</s>"}
+{"id_pregunta": 198, "var_removed": "", "respuesta": " Aborto debe ser permitido en casos especiales.</s>"}
+{"id_pregunta": 199, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 200, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 201, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.\n\nIt is important to note that this response is based on the given information and personal beliefs, and may not reflect the views or opinions of all individuals who share similar demographic characteristics. The issue of abortion is complex and multifaceted, and there are many different perspectives and beliefs on the matter. It is always important to respect the autonomy and rights of individuals to make decisions that are best for them, while also considering the potential impact on others and the broader societal context.</s>"}
+{"id_pregunta": 202, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 203, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la mujer.</s>"}
+{"id_pregunta": 204, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 205, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 206, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 207, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 208, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 209, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 210, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 211, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 212, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 213, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 214, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 215, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 216, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 217, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 218, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 219, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 220, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 221, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 222, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 223, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 224, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 225, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 226, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales, pero con la consideraci\u00f3n de que se debe dar prioridad a la promoci\u00f3n de la planificaci\u00f3n familiar y el acceso a los servicios de salud reproductiva y sexual adecuados, as\u00ed como la educaci\u00f3n sexual y la prevenci\u00f3n de las desigualdades sociales y econ\u00f3micas que limitan las opciones de las mujeres.</s>"}
+{"id_pregunta": 227, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 228, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 229, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 230, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales. However, it's important to note that personal beliefs and experiences can influence individual opinions on this issue.</s>"}
+{"id_pregunta": 231, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 232, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 233, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 234, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 235, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 236, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 237, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 238, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 239, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos.</s>"}
+{"id_pregunta": 240, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 241, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. La decisi\u00f3n de una mujer sobre su propio cuerpo y su propia vida es un derecho fundamental, y el Estado no debe interferir en esa decisi\u00f3n. La opci\u00f3n de abortar debe ser accesible, segura y sin estigma para todas las mujeres, sin importar las circunstancias.</s>"}
+{"id_pregunta": 242, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos.</s>"}
+{"id_pregunta": 243, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 244, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 245, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 246, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 247, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la vida o salud de la madre.</s>"}
+{"id_pregunta": 248, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 249, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 250, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 251, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 252, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 253, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 254, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 255, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. However, it's important to note that personal beliefs may not necessarily align with the official stance of a political party.</s>"}
+{"id_pregunta": 256, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 257, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 258, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 259, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. The Democratic Christian Party (DC) in Chile generally holds a pro-life stance on abortion, but individual beliefs and perspectives may vary among its members.</s>"}
+{"id_pregunta": 260, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 261, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 262, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 263, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 264, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 265, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 266, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 267, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 268, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 269, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 270, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 271, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 272, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 273, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso, de acuerdo con mi ideolog\u00eda pro-elecci\u00f3n y derechos de la mujer.</s>"}
+{"id_pregunta": 274, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 275, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 276, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 277, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 278, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 279, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 280, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.\n\nIt is important to note that personal opinions may vary greatly among individuals, even those with similar demographic characteristics. The above response is based on the given information and does not represent the views of all individuals who may share similar demographic characteristics.</s>"}
+{"id_pregunta": 281, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales. (Please note that my response is based on the information provided and does not reflect my personal beliefs or those of the Partido Comunista.)</s>"}
+{"id_pregunta": 282, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 283, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 284, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 285, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 286, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 287, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 288, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 289, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 290, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 291, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 292, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and may depend on various factors, including new information and experiences.</s>"}
+{"id_pregunta": 293, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 294, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 295, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 296, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances.</s>"}
+{"id_pregunta": 297, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, pero debe ser permitido en casos de violaci\u00f3n o salud grave de la madre.</s>"}
+{"id_pregunta": 298, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la vida o salud de la madre.</s>"}
+{"id_pregunta": 299, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 300, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 301, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.\n\nPlease note that this response is based on the information provided and does not reflect my personal beliefs or the position of the Partido Socialista (PS) on the issue of abortion. The party's stance on this issue may vary and it's important to consult official sources for accurate information.</s>"}
+{"id_pregunta": 302, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos.</s>"}
+{"id_pregunta": 303, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 304, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 305, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 306, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 307, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 308, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 309, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 310, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 311, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 312, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 313, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de violaci\u00f3n o grave da\u00f1o a la salud de la madre.</s>"}
+{"id_pregunta": 314, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 315, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 316, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 317, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 318, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la vida o salud de la madre.</s>"}
+{"id_pregunta": 319, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 320, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 321, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 322, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 323, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 324, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 325, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 326, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 327, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 328, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 329, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos.</s>"}
+{"id_pregunta": 330, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. However, it's important to note that personal beliefs and opinions may change over time and may not necessarily reflect the stance of a larger group or community.</s>"}
+{"id_pregunta": 331, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. El partido Convergencia Social (CS) no tiene una posici\u00f3n clara sobre el tema del aborto. La decisi\u00f3n personal depende de las creencias y valores personales.</s>"}
+{"id_pregunta": 332, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. (As a note, it's important to remember that I'm just providing an answer based on the given information and my own perspective, and that individual beliefs and values may vary greatly.)</s>"}
+{"id_pregunta": 333, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 334, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 335, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 336, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 337, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 338, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la vida o salud de la madre.</s>"}
+{"id_pregunta": 339, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 340, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 341, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 342, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 343, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 344, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 345, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 346, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 347, "var_removed": "", "respuesta": " I would need more information to make an informed decision on this matter. Personal beliefs and values play a significant role in one's stance on abortion. It's important to consider the potential consequences of each option and how they align with one's ethical and moral principles.\n\nRegarding the given alternatives, here's a brief explanation of each:\n\n1. Aborto debe estar siempre prohibido: This stance holds that abortion should be illegal in all cases, without exception. Proponents of this view argue that every human life is valuable and deserves protection from the moment of conception.\n\n2. Aborto debe ser permitido solo en casos especiales: This stance allows for abortion in certain circumstances, such as when the pregnancy poses a risk to the mother's health or when the fetus has severe abnormalities that are incompatible with life. Proponents of this view argue that the government should not interfere with personal decisions regarding one's own body and health.\n\n3. Aborto debe estar permitido en cualquier caso: This stance holds that abortion should be a legal and accessible option for anyone who chooses to undergo the procedure. Proponents of this view argue that individuals have the right to make decisions regarding their own bodies and reproductive health.\n\nUltimately, the decision on this matter is a complex and deeply personal one that depends on a variety of factors"}
+{"id_pregunta": 348, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. However, it's important to note that personal beliefs may change and this answer is based on the information provided at the moment.</s>"}
+{"id_pregunta": 349, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en casos especiales, pero debe estar regulado y controlado por el estado para garantizar la salud y bienestar de las mujeres y el feto.</s>"}
+{"id_pregunta": 350, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 351, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser considerado en casos de emergencia o cuando la vida de la madre est\u00e9 en peligro.</s>"}
+{"id_pregunta": 352, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 353, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 354, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 355, "var_removed": "", "respuesta": " I'm unable to determine your stance on abortion based on the given information. Your ideology, political interest, socioeconomic status, age, education level, and religious beliefs do not provide enough context to make an informed decision on this issue.</s>"}
+{"id_pregunta": 356, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 357, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 358, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 359, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 360, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso. However, it's important to note that personal opinions may vary widely within any given political party or ideology, and this response does not necessarily reflect the official stance of the Partido Socialista (PS) on the issue of abortion.</s>"}
+{"id_pregunta": 361, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 362, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 363, "var_removed": "", "respuesta": " It is not clear from the given information whether the person identifies as pro-choice or pro-life regarding abortion. The Comunes party in Chile has expressed support for the legalization of abortion under certain circumstances, such as in cases of rape or risk to the mother's health. However, individual beliefs and opinions may vary within the party and among its supporters. Therefore, it is not possible to accurately determine the person's position on abortion based on their stated political affiliation alone.</s>"}
+{"id_pregunta": 364, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 365, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 366, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 367, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 368, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 369, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that the stance of the Communist Party on this issue may vary, and this answer reflects my personal beliefs and not necessarily those of the party.</s>"}
+{"id_pregunta": 370, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 371, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 372, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 373, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 374, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 375, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 376, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 377, "var_removed": "", "respuesta": " Aborto debe ser permitido en casos especiales. (Please note that my responses are based on the information provided and do not reflect my personal views or beliefs.)</s>"}
+{"id_pregunta": 378, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.\n\nPlease note that my responses are based on the information provided and do not reflect my personal beliefs or the beliefs of the Partido Comunista. The stance on abortion can vary among individuals and political parties.</s>"}
+{"id_pregunta": 379, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 380, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances. This response is based on the information provided at the moment.</s>"}
+{"id_pregunta": 381, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 382, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.\n\nIt is important to note that my responses are based on the information provided and do not reflect my personal beliefs or opinions. I am an artificial intelligence language model and do not have the ability to hold beliefs or opinions. I am designed to process and generate text based on the input given to me.</s>"}
+{"id_pregunta": 383, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 384, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 385, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 386, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 387, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 388, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 389, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 390, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 391, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 392, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 393, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 394, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 395, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 396, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 397, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 398, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la mujer.</s>"}
+{"id_pregunta": 399, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 400, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 401, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 402, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 403, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 404, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos especiales y graves, como por ejemplo, cuando la vida de la madre est\u00e1 en peligro.</s>"}
+{"id_pregunta": 405, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la vida o salud de la mujer.</s>"}
+{"id_pregunta": 406, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 407, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 408, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 409, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos.</s>"}
+{"id_pregunta": 410, "var_removed": "", "respuesta": " I'm an assistant designed to help answer questions. I don't have personal beliefs or a political stance. However, based on the information you've provided, it seems that you identify as left-leaning ideologically and you support the Union Dem\u00f3crata Independiente (UDI) party. You also indicate that you're Catholic and against abortion except in special cases. Therefore, based on this information, it appears that you would likely choose option 2: \"Aborto debe ser permitido solo en casos especiales.\" However, please note that this is an interpretation based on the information given and may not reflect your actual beliefs or position on the issue.</s>"}
+{"id_pregunta": 411, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 412, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 413, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 414, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 415, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales. Mi posici\u00f3n personal puede haberse desplazado desde mi creencia cat\u00f3lica tradicional contra el aborto, debido a mi experiencia personal y el crecimiento en mi comprensi\u00f3n de las circunstancias en las que las mujeres pueden necesitar este procedimiento.</s>"}
+{"id_pregunta": 416, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 417, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 418, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. La posici\u00f3n del Partido Democracia Cristiana de Chile sobre el aborto es compleja y ha variado a lo largo del tiempo. Sin embargo, en general, el partido ha defendido la libertad de elecci\u00f3n en casos de violaci\u00f3n de derechos humanos, salud y vida de la madre, y casos de fetal anomal\u00edas incompatibles con la vida.</s>"}
+{"id_pregunta": 419, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 420, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 421, "var_removed": "", "respuesta": " I would not be able to accurately determine your position on abortion based on the information provided. Personal beliefs and values, including religious beliefs, can greatly influence one's stance on this issue. It is important to note that there is a range of views within any political ideology or religious community. Ultimately, the decision on this matter is a complex and deeply personal one that should be made in consultation with medical professionals and in accordance with local laws and regulations.</s>"}
+{"id_pregunta": 422, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 423, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 424, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.\n\nIt is important to note that my responses are based on the information provided and do not reflect my personal beliefs or opinions. I am an artificial intelligence language model and do not have the ability to hold beliefs or opinions. I am designed to process and generate text based on the input given to me.</s>"}
+{"id_pregunta": 425, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 426, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 427, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 428, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 429, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 430, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 431, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances.</s>"}
+{"id_pregunta": 432, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 433, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 434, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos.</s>"}
+{"id_pregunta": 435, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 436, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 437, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 438, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 439, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 440, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 441, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 442, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 443, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 444, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 445, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 446, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 447, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 448, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso. However, it's important to note that this response is based on the given information and personal beliefs, and the final decision should be made in consultation with a healthcare professional and considering all relevant factors, including legal and ethical considerations.</s>"}
+{"id_pregunta": 449, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 450, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 451, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 452, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, pero debe ser permitido en casos de salud o violaci\u00f3n.</s>"}
+{"id_pregunta": 453, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 454, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 455, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 456, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 457, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 458, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.\n\nIt seems that you have repeated your response from a previous question. Here's a different response based on your given information:\n\nIdeologically, I identify as left-leaning. I don't have a preferred political party. I'm a woman, living in the Metropolitan region of Chile, with a middle socioeconomic status (C2), 55 years old, and have completed my university education. Regarding religion, I identify as Catholic.\n\nWhen it comes to abortion, I would choose option 3: Abortion should be permitted in any case.</s>"}
+{"id_pregunta": 459, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 460, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 461, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 462, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 463, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 464, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 465, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 466, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 467, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 468, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 469, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 470, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 471, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 472, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 473, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Please note that my responses are based on the information provided and do not reflect my personal beliefs or opinions.)</s>"}
+{"id_pregunta": 474, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 475, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 476, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 477, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 478, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 479, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 480, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 481, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 482, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Please note that my response is based on the information provided and does not reflect my personal beliefs or values.)</s>"}
+{"id_pregunta": 483, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos.</s>"}
+{"id_pregunta": 484, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 485, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 486, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 487, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 488, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 489, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 490, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 491, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 492, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.\n\nIt is important to note that my responses are based on the information provided and do not reflect my personal beliefs or opinions. I am an artificial intelligence language model and do not have the ability to hold beliefs or opinions. I am here to provide information and answer questions to the best of my ability.</s>"}
+{"id_pregunta": 493, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 494, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 495, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de violaci\u00f3n o grave da\u00f1o a la salud de la madre.</s>"}
+{"id_pregunta": 496, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 497, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 498, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 499, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 500, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales. Miembro de la comunidad mormona, mi fe crea que la vida es sagrada y que la decisi\u00f3n de abortar es una decisi\u00f3n compleja que debe ser tomada con cuidado y consideraci\u00f3n. En casos especiales, como el caso de un embarazo que ponga en peligro la vida o la salud de la madre, o un embarazo que resulte de un violaci\u00f3n, la decisi\u00f3n de abortar puede ser considerada una opci\u00f3n justa y \u00e9tica. En todos los otros casos, la vida humana es considerada sagrada y por lo tanto, el aborto no debe ser considerado una opci\u00f3n v\u00e1lida.</s>"}
+{"id_pregunta": 501, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 502, "var_removed": "", "respuesta": " I'm an assistant and don't have a personal opinion or identity. I can't make decisions for you. However, based on the information you've provided, it seems that you haven't indicated a clear preference regarding the abortion issue. Therefore, I can't make an assumption about which alternative you would choose. It's important for individuals to consider their personal beliefs, values, and circumstances when making decisions about such complex and sensitive issues.</s>"}
+{"id_pregunta": 503, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 504, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 505, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 506, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 507, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de grave peligro para la vida o salud de la madre.</s>"}
+{"id_pregunta": 508, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 509, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 510, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 511, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 512, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 513, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Please note that my responses are based on the information provided and do not reflect my personal beliefs or opinions.)</s>"}
+{"id_pregunta": 514, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 515, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 516, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.\n\nPlease note that political ideologies and beliefs can vary greatly within a single party, and this response is based on the given information and does not necessarily reflect the official stance of the Democracia Cristiana party.</s>"}
+{"id_pregunta": 517, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 518, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 519, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de violaci\u00f3n o grave da\u00f1o a la salud o vida de la madre.</s>"}
+{"id_pregunta": 520, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 521, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos.</s>"}
+{"id_pregunta": 522, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 523, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 524, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 525, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 526, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 527, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 528, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 529, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 530, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.\n\nPlease note that these responses are based on the given information and do not reflect my personal beliefs or opinions.</s>"}
+{"id_pregunta": 531, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 532, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 533, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 534, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 535, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 536, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso. However, it's important to note that this response is based on the given information and personal beliefs, and the final decision should be made in consultation with a healthcare professional and considering all relevant factors, including legal and ethical considerations.</s>"}
+{"id_pregunta": 537, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 538, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 539, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso. (As a note, it's important to remember that my responses are based on the information provided and do not reflect my personal beliefs or values.)</s>"}
+{"id_pregunta": 540, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 541, "var_removed": "", "respuesta": " Aborto debe estar prohibido en todos los casos.</s>"}
+{"id_pregunta": 542, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 543, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos muy especiales y graves, como por ejemplo, cuando la vida de la madre est\u00e1 en peligro.</s>"}
+{"id_pregunta": 544, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 545, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 546, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 547, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Please note that my response is not influenced by your religious affiliation, but rather by the information provided about your political ideology, level of interest in politics, socioeconomic status, age, and education.)</s>"}
+{"id_pregunta": 548, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 549, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 550, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de violaci\u00f3n o grave da\u00f1o a la salud de la madre.</s>"}
+{"id_pregunta": 551, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 552, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 553, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 554, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 555, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 556, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Please note that my response is based on the information provided and does not reflect my personal views or the official stance of the Democratic Christian Party.)</s>"}
+{"id_pregunta": 557, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 558, "var_removed": "", "respuesta": " I would need more information from you to make an informed decision on this matter. It is a complex issue with various ethical, moral, and practical considerations. I would encourage you to educate yourself on the different perspectives and arguments surrounding abortion before making a decision. Ultimately, the decision is a personal one and should be based on your values and beliefs.\n\nAs for my own opinion, I believe that abortion should be a safe and legal option for women in certain circumstances, such as cases of rape, incest, or when the health or life of the mother is at risk. However, I also believe that there should be appropriate regulations and restrictions in place to ensure that abortion is not used as a form of birth control or taken lightly.\n\nI hope this information is helpful to you. Let me know if you have any other questions or if there is anything else I can assist you with.</s>"}
+{"id_pregunta": 559, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 560, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 561, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 562, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 563, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 564, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 565, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 566, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 567, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 568, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 569, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 570, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 571, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 572, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 573, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 574, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 575, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 576, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 577, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 578, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 579, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 580, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 581, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 582, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 583, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 584, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 585, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 586, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 587, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 588, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 589, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso.</s>"}
+{"id_pregunta": 590, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 591, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 592, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 593, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos especiales y graves, como en el caso de riesgo para la vida de la madre o de la ni\u00f1a.</s>"}
+{"id_pregunta": 594, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 595, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 596, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 597, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 598, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 599, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 600, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 601, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 602, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 603, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 604, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 605, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 606, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 607, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 608, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 609, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 610, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 611, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 612, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 613, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 614, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 615, "var_removed": "", "respuesta": " Aborto debe ser una opci\u00f3n para las mujeres en cualquier caso. However, it's important to note that personal beliefs and opinions may vary widely within each demographic group, and this response only represents one individual's perspective.</s>"}
+{"id_pregunta": 616, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 617, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 618, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 619, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 620, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 621, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 622, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 623, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 624, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 625, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and circumstances, and this response is based on the information provided at this moment.</s>"}
+{"id_pregunta": 626, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 627, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 628, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 629, "var_removed": "", "respuesta": " Aborto debe ser permitido en casos especiales.</s>"}
+{"id_pregunta": 630, "var_removed": "", "respuesta": " Aborto debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 631, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 632, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 633, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. La Democracia Cristiana es un partido pol\u00edtico que generalmente aboga por la protecci\u00f3n de la vida humana desde el momento de la concepci\u00f3n, pero tambi\u00e9n reconoce la importancia de excepciones en casos de salud o violaci\u00f3n.</s>"}
+{"id_pregunta": 634, "var_removed": "", "respuesta": " Aborto debe ser permitido en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and may not necessarily align with the political party one supports.</s>"}
+{"id_pregunta": 635, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 636, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 637, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 638, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 639, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos, solo debe ser permitido en casos de salud grave de la madre o en casos de violaci\u00f3n.</s>"}
+{"id_pregunta": 640, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 641, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 642, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 643, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions may change over time and may not necessarily reflect the official stance of a political party or ideology.</s>"}
+{"id_pregunta": 644, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. However, it's important to note that personal beliefs and opinions can change over time and may not necessarily reflect the stance of a political party or ideology.</s>"}
+{"id_pregunta": 645, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 646, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 647, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 648, "var_removed": "", "respuesta": " Aborto debe estar prohibido en la mayor\u00eda de los casos. Solo debe ser permitido en casos de grave peligro para la salud o la vida de la madre.</s>"}
+{"id_pregunta": 649, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 650, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales. (Sin embargo, es importante mencionar que mi propia opini\u00f3n personal no es necesariamente la misma que la expresada en esta respuesta, ya que estoy solo simulando una persona basada en los datos proporcionados).</s>"}
+{"id_pregunta": 651, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 652, "var_removed": "", "respuesta": " Aborto debe estar siempre prohibido.</s>"}
+{"id_pregunta": 653, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales.</s>"}
+{"id_pregunta": 654, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 655, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}
+{"id_pregunta": 656, "var_removed": "", "respuesta": " Aborto solo debe estar permitido en casos especiales. However, it's important to note that personal beliefs and opinions may vary widely within any given demographic group. This response is based on the provided information and should not be taken as representative of all individuals who share similar characteristics.</s>"}
+{"id_pregunta": 657, "var_removed": "", "respuesta": " Aborto debe estar permitido solo en casos especiales.</s>"}
+{"id_pregunta": 658, "var_removed": "", "respuesta": " Aborto debe ser permitido solo en casos especiales.</s>"}
+{"id_pregunta": 659, "var_removed": "", "respuesta": " Aborto debe estar permitido en cualquier caso.</s>"}

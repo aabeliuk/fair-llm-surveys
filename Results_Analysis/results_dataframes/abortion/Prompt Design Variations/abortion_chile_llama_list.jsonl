@@ -1,0 +1,660 @@
+{"id_pregunta": 0, "var_removed": "", "prompt": [{"role": "user", "content": "\n- country: Chile\n- gender: male\n- age: 25\n- region of residence: BIOB\u00cdO\n- zone type: urban\n- socioeconomic status: C3\n- level of scholarity: high school complete\n- indigenous community: none\n- religion: does not answer\n- political ideology: center-left\n- political party: None.\n- political interest: quite interested.\nWhich of these ideas best expresses this person's judgment regarding abortion? Abortion should always be prohibited, abortion should only be allowed in special cases, abortion should be an option for women in any case?\n\n"}, {"role": "assistant", "content": "Abortion should be an option for women in any case."}, {"role": "user", "content": "\n- country: Chile\n- gender: male\n- age: 61\n- region of residence: METROPOLITANA\n- zone type: urban\n- socioeconomic status: D\n- level of scholarity: high school complete\n- indigenous community: doesn't know\n- religion: catholic\n- political ideology: left\n- political party: None.\n- political interest: not at all interested.\nWhich of these ideas best expresses this person's judgment regarding abortion? Abortion should always be prohibited, abortion should only be allowed in special cases, abortion should be an option for women in any case?\n\n"}, {"role": "assistant", "content": "Abortion should always be prohibited."}, {"role": "user", "content": "\n- country: Chile\n- gender: female\n- age: 39\n- region of residence: METROPOLITANA\n- zone type: urban\n- socioeconomic status: D\n- level of scholarity: high school complete\n- indigenous community: Mapuche\n- religion: none\n- political ideology: does not answer\n- political party: None.\n- political interest: not at all interested.\nWhich of these ideas best expresses this person's judgment regarding abortion? Abortion should always be prohibited, abortion should only be allowed in special cases, abortion should be an option for women in any case?\n\n"}, {"role": "assistant", "content": "Abortion should only be allowed in special cases."}, {"role": "user", "content": "\n- country: Chile\n- gender: male\n- age: 68\n- region of residence: METROPOLITANA\n- zone type: urban\n- socioeconomic status: ABC1\n- level of scholarity: high school complete\n- indigenous community: none\n- religion: catholic\n- political ideology: center-left\n- political party: None.\n- political interest: not at all interested.\nWhich of these ideas best expresses this person's judgment regarding abortion? Abortion should always be prohibited, abortion should only be allowed in special cases, abortion should be an option for women in any case?\n\n"}, {"role": "assistant", "content": "Abortion should be an option for women in any case."}, {"role": "user", "content": "\n- country: Chile\n- gender: male\n- age: 72\n- region of residence: METROPOLITANA\n- zone type: urban\n- socioeconomic status: C3\n- level of scholarity: middle school incomplete\n- indigenous community: none\n- religion: none\n- political ideology: doesn't know\n- political party: None.\n- political interest: not at all interested.\nWhich of these ideas best expresses this person's judgment regarding abortion? Abortion should always be prohibited, abortion should only be allowed in special cases, abortion should be an option for women in any case?\n\n"}, {"role": "assistant", "content": "Abortion should be an option for women in any case."}, {"role": "user", "content": "\n- country: Chile\n- gender: female\n- age: 40\n- region of residence: METROPOLITANA\n- zone type: urban\n- socioeconomic status: C3\n- level of scholarity: high school incomplete\n- indigenous community: none\n- religion: none\n- political ideology: right\n- political party: None.\n- political interest: not at all interested.\nWhich of these ideas best expresses this person's judgment regarding abortion? Abortion should always be prohibited, abortion should only be allowed in special cases, abortion should be an option for women in any case?\n\n"}], "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 1, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 2, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 3, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 4, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 5, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 6, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 7, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should be an option for women in any case.\n\nThis is based on the person's political ideology (left) and their political party (Partido Socialista), which are both associated with a pro-choice stance on abortion. Additionally, the person's high level of interest in political issues and their incomplete high school education suggest that they are likely to be well-informed and open to progressive views on social issues like abortion.</s>"}
+{"id_pregunta": 8, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 9, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 10, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 11, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 12, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 13, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 14, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 15, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 16, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would answer \"Abortion should always be prohibited\" as their judgment regarding abortion. This is due to their extreme right political ideology and their affiliation with the Democracia Cristiana (DC) party, which is a conservative Christian political party that is generally opposed to abortion. Additionally, their middle school complete level of education and Catholic religion suggest that they may hold more traditional and conservative values regarding social issues such as abortion.</s>"}
+{"id_pregunta": 17, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 18, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 19, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 20, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's center-left political ideology and their affiliation with the Partido Ecologista Verde (PEV), which is a political party that tends to be more progressive on social issues like abortion. Additionally, the person's level of education and socioeconomic status suggest that they may be more open to nuanced and complex views on the issue.</s>"}
+{"id_pregunta": 21, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would answer \"Abortion should always be prohibited\" as their judgment regarding abortion. This is based on the fact that they identify as extreme right and have a high level of political interest, which suggests that they may hold conservative views on social issues such as abortion. Additionally, their religious affiliation as Jude may also influence their views on abortion.</s>"}
+{"id_pregunta": 22, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 23, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 24, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 25, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 26, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 27, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 28, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 29, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 30, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's center-left political ideology and their affiliation with the Partido Por la Democracia (PPD) party, which tend to be more permissive of abortion rights. Additionally, the person's level of education and socioeconomic status suggest that they may be more open to progressive ideas and values. However, the person's Catholic religion may influence their views on abortion, leading them to believe that it should only be allowed in special cases, such as when the mother's life is at risk or in cases of rape or incest.</s>"}
+{"id_pregunta": 31, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 32, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 33, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 34, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 35, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and affiliation with the Uni\u00f3n Dem\u00f3crata Independiente (UDI) suggest that they may hold conservative views on social issues such as abortion. Additionally, their Catholic religion may also influence their beliefs on the matter.</s>"}
+{"id_pregunta": 36, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 37, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 38, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 39, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should always be prohibited. The person is 38 years old, female, and lives in the Araucan\u00eda region of Chile, which is known for being more conservative and having a strong Catholic influence. Additionally, the person has an extreme right political ideology and is not interested in politics, which suggests that they may be more likely to hold traditional or conservative views on social issues like abortion. Therefore, the idea that abortion should always be prohibited is the best fit for this person's judgment.</s>"}
+{"id_pregunta": 40, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 41, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 42, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 43, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 44, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 45, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 46, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 47, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should always be prohibited.</s>"}
+{"id_pregunta": 48, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 49, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 50, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 51, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 52, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should always be prohibited.\n\nThis is based on the person's age, gender, socioeconomic status, religion, and political ideology, which suggest a more conservative and traditional view on social issues like abortion. Additionally, the person's lack of interest in political issues and their affiliation with a right-wing political party further suggest that they may be opposed to abortion.</s>"}
+{"id_pregunta": 53, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 54, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 55, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 56, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 57, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 58, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 59, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 60, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 61, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 62, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 63, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 64, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 65, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 66, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 67, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 68, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 69, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 70, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 71, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 72, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 73, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 74, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 75, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. This is due to their Catholic religion and the fact that they do not answer questions about their political ideology, which suggests that they may hold more conservative views on social issues.</s>"}
+{"id_pregunta": 76, "var_removed": "", "respuesta": " Based on the provided information, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's right political ideology and their affiliation with the Renovaci\u00f3n Nacional (RN) party, which tends to be more conservative on social issues like abortion. Additionally, the fact that they are 55 years old and from the Metropolitana region of Chile, which tend to be more traditional and conservative, also suggests that they may be more likely to support restrictions on abortion.</s>"}
+{"id_pregunta": 77, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 78, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 79, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 80, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 81, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 82, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 83, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 84, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 85, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 86, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 87, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 88, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 89, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 90, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 91, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 92, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 93, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 94, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should always be prohibited. Their extreme right political ideology and membership in the Partido de la Gente (PDG) suggest that they may hold socially conservative views on issues like abortion. Additionally, their low level of education and rural residence may also contribute to a more traditional or conservative perspective on this issue. Therefore, the best answer is:\n\nAbortion should always be prohibited.</s>"}
+{"id_pregunta": 95, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 96, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 97, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 98, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would express the idea that abortion should only be allowed in special cases. This is based on their political ideology (right) and their affiliation with the Renovaci\u00f3n Nacional (RN) party, which tend to be more conservative on social issues such as abortion. Additionally, the fact that they are evangelical and have a high school education suggests that they may hold more traditional or conservative views on issues such as abortion.</s>"}
+{"id_pregunta": 99, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. This is due to their extreme right political ideology and their affiliation with the Partido Socialista (PS), which is a conservative political party in Chile. Additionally, their religious affiliation as a Catholic and their middle school incomplete level of education may also influence their opinion on this issue.</s>"}
+{"id_pregunta": 100, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 101, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 102, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 103, "var_removed": "", "respuesta": " Based on the information provided, it is difficult to determine the person's judgment regarding abortion. The answer \"does not answer\" to the question of political ideology and the fact that they are \"quite interested\" in politics suggests that they may have a strong opinion on the matter, but the lack of information makes it impossible to determine what that opinion might be. Therefore, none of the options provided best expresses this person's judgment regarding abortion.</s>"}
+{"id_pregunta": 104, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 105, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 106, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 107, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 108, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 109, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 110, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. The person is 90 years old, female, and living in a rural area in the MAULE region of Chile, with a socioeconomic status of C3. They have a middle school education and identify as Catholic, with an extreme right political ideology and a political interest that is somewhat interested. These factors suggest that this person may hold more conservative and traditional values, and may be opposed to abortion except in special cases.</s>"}
+{"id_pregunta": 111, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 112, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 113, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 114, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 115, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 116, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 117, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 118, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should always be prohibited. Their extreme right political ideology and Catholic religion suggest that they may be opposed to abortion in all cases, except perhaps in special circumstances where the mother's life is at risk.</s>"}
+{"id_pregunta": 119, "var_removed": "", "respuesta": " Abortion should be an option for women in any case. This person's left political ideology and membership in the Revoluci\u00f3n Democr\u00e1tica (RD) party suggest that they are likely to support progressive and pro-choice policies, including the right to access safe and legal abortion. Additionally, the fact that they are \"somewhat interested\" in political issues suggests that they are open to considering a range of perspectives and are not strongly opposed to abortion.</s>"}
+{"id_pregunta": 120, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 121, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 122, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 123, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 124, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 125, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 126, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should be an option for women in any case. The fact that they are a member of the Partido de la Gente (PDG), a left-wing political party in Chile, suggests that they may be more progressive and open to social issues such as reproductive rights. Additionally, the fact that they are a young, urban, and well-educated woman with no religious affiliation may also influence their views on abortion. Therefore, option C (abortion should be an option for women in any case) is the best answer.</s>"}
+{"id_pregunta": 127, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 128, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 129, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 130, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 131, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 132, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 133, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 134, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 135, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should be an option for women in any case.</s>"}
+{"id_pregunta": 136, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 137, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 138, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 139, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 140, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 141, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 142, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 143, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would answer \"Abortion should always be prohibited\" as their judgment regarding abortion. This is based on their right political ideology and the fact that they are not interested in political issues, which suggests that they may hold more conservative views on social issues like abortion.</s>"}
+{"id_pregunta": 144, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 145, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 146, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 147, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 148, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 149, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 150, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 151, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 152, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 153, "var_removed": "", "respuesta": " Based on the information provided, it is likely that the person would support the idea that abortion should only be allowed in special cases. This is based on the person's age, socioeconomic status, and religious affiliation, which suggest a more conservative and traditional viewpoint on social issues. Additionally, the person's political party affiliation with the Democracia Cristiana (DC) is also consistent with a more conservative stance on abortion.</s>"}
+{"id_pregunta": 154, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 155, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 156, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 157, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 158, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 159, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 160, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 161, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 162, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 163, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 164, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 165, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 166, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 167, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 168, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 169, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 170, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 171, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 172, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 173, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would answer \"Abortion should always be prohibited\" as their judgment regarding abortion. This is because they are a Jehovah's Witness, which is a religious group that opposes abortion, and they also identify as right-wing, which is often associated with socially conservative views. Additionally, their high level of education and socioeconomic status may also influence their opinion to be more opposed to abortion.</s>"}
+{"id_pregunta": 174, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 175, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 176, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 177, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 178, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 179, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 180, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 181, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 182, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 183, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 184, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should only be allowed in special cases. Their center-right political ideology and Catholic religious affiliation suggest that they may be more likely to advocate for restrictions on abortion, rather than supporting the idea that it should be an option for women in any case.</s>"}
+{"id_pregunta": 185, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would answer \"Abortion should always be prohibited\" as they are a Catholic and do not answer questions about politics.</s>"}
+{"id_pregunta": 186, "var_removed": "", "respuesta": " Based on the information provided, it is difficult to determine the person's judgment regarding abortion. The answer \"doesn't know\" suggests a lack of knowledge or opinion on the topic. Therefore, none of the options accurately reflect this person's judgment.</s>"}
+{"id_pregunta": 187, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 188, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 189, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 190, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 191, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 192, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 193, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 194, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should be an option for women in any case.\n\nThis is based on the person's center-left political ideology and their affiliation with the Partido de la Gente (PDG), which is a left-leaning political party in Chile. The PDG has historically supported progressive policies on social issues such as reproductive rights, and it is likely that this person would support a woman's right to choose regarding abortion. Additionally, the person's university education and somewhat interested political interest suggest that they are open to considering a range of perspectives on the issue.</s>"}
+{"id_pregunta": 195, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 196, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 197, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 198, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 199, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 200, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 201, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 202, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 203, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should always be prohibited. Their extreme right political ideology and Catholic religion suggest that they may hold a conservative view on abortion. Additionally, their lack of political interest and low level of education may indicate that they do not have a strong opinion on the issue.</s>"}
+{"id_pregunta": 204, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 205, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 206, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 207, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. The person is from an extreme right political ideology and is a member of the Renovaci\u00f3n Nacional (RN) party, which tends to have a conservative stance on social issues such as abortion. Additionally, the person is from a rural area in the Araucan\u00eda region, which is known for its strong traditional values and conservative leanings. Therefore, it is likely that this person would be opposed to abortion in all cases.</s>"}
+{"id_pregunta": 208, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's center-left political ideology and their religious affiliation as evangelic, which may influence their views on abortion. Additionally, the person's age and socioeconomic status may also play a role in shaping their opinions on this issue.</s>"}
+{"id_pregunta": 209, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 210, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 211, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 212, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 213, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 214, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 215, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 216, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 217, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 218, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and affiliation with the Partido Republicano suggest that they may hold socially conservative views on issues like abortion. Additionally, their young age and lack of religious affiliation may also contribute to a more restrictive view on abortion.</s>"}
+{"id_pregunta": 219, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 220, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 221, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 222, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 223, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 224, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 225, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 226, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 227, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 228, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 229, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 230, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should be an option for women in any case.\n\nThis is based on the person's left political ideology and their high school completion, which suggest that they are likely to be more progressive and supportive of women's rights, including the right to access safe and legal abortion. Additionally, the fact that they are somewhat interested in politics suggests that they may be open to considering a range of perspectives on this issue.</s>"}
+{"id_pregunta": 231, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 232, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 233, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 234, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 235, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 236, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 237, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 238, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's Catholic religion, right-wing political ideology, and socioeconomic status, which suggest that they may be more likely to hold a conservative view on abortion. Additionally, the fact that they are \"somewhat interested\" in politics suggests that they may have a strong opinion on the matter, but are not fully engaged in the issue.</s>"}
+{"id_pregunta": 239, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. This is because the person is male, 61 years old, and has a right-leaning political ideology, which are all factors that have been associated with opposition to abortion in Chile. Additionally, the person is not at all interested in political issues, which suggests that they may have strong beliefs on the matter but do not feel the need to engage in political discussions or activism.</s>"}
+{"id_pregunta": 240, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 241, "var_removed": "", "respuesta": " Abortion should be an option for women in any case. This person's extreme left political ideology and affiliation with the Partido Comunista (PC) suggest that they would support a pro-choice stance on abortion, believing that women have the right to make decisions about their own bodies and reproductive health.</s>"}
+{"id_pregunta": 242, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would answer \"Abortion should always be prohibited\" as their judgment regarding abortion. This is due to their extreme right political ideology and their affiliation with the Partido Republicano, which is a conservative political party that tends to be opposed to abortion. Additionally, their Catholic religion and socioeconomic status of C2 may also influence their views on abortion, as these factors are often associated with more traditional and conservative values.</s>"}
+{"id_pregunta": 243, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 244, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 245, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 246, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 247, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and affiliation with the Renovaci\u00f3n Nacional (RN) party suggest that they may hold socially conservative views on issues like abortion. Additionally, their middle school incomplete education and rural residence may indicate a more traditional or conservative perspective on social issues.</s>"}
+{"id_pregunta": 248, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 249, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 250, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 251, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 252, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 253, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 254, "var_removed": "", "respuesta": " Abortion should be an option for women in any case. This person's extreme left political ideology and political party affiliation, as well as their high level of education and lack of religious beliefs, suggest that they are likely to support progressive and inclusive policies, including the right to access safe and legal abortion.</s>"}
+{"id_pregunta": 255, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 256, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 257, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 258, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 259, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 260, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 261, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 262, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 263, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 264, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 265, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 266, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 267, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 268, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 269, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should only be allowed in special cases. This is based on their evangelical religion and their political affiliation with the Partido Republicano, which are both associated with more conservative views on social issues such as abortion. Additionally, the fact that they are not very interested in politics suggests that they may not have a strong opinion on the matter.</s>"}
+{"id_pregunta": 270, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 271, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 272, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 273, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 274, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 275, "var_removed": "", "respuesta": " Based on the provided information, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the fact that the person is a woman, 50 years old, from the Metropolitan region of Chile, with a socioeconomic status of C2, and a university incomplete level of education. Additionally, she is a Catholic and has a center-left political ideology, which suggests that she may hold more conservative views on social issues like abortion. The fact that she is \"quite interested\" in politics also suggests that she may be more engaged in issues related to women's rights and reproductive health, but may still hold a more cautious approach to abortion.</s>"}
+{"id_pregunta": 276, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 277, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 278, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 279, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 280, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 281, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 282, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 283, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 284, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 285, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 286, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 287, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 288, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 289, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 290, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 291, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 292, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 293, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 294, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 295, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 296, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 297, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 298, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 299, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 300, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 301, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's right political ideology and their affiliation with the Partido Socialista (PS), which is a center-left political party in Chile. Additionally, the fact that the person is Mapuche and has a high school incomplete education suggests that they may have more conservative views on social issues like abortion.</s>"}
+{"id_pregunta": 302, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 303, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 304, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 305, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 306, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 307, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 308, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 309, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 310, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should always be prohibited.\n\nThis is based on the person's right-leaning political ideology and their Catholic religion, which are both associated with a pro-life stance on abortion. Additionally, the fact that they are not interested in political issues related to abortion suggests that they may not be open to considering alternative perspectives on the issue.</s>"}
+{"id_pregunta": 311, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 312, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 313, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. This is based on their extreme right political ideology and their affiliation with the Partido Republicano, which is a conservative political party that tends to be opposed to abortion rights. Additionally, the person's evangelical religion may also influence their views on abortion, as some evangelical groups are opposed to abortion.</s>"}
+{"id_pregunta": 314, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 315, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 316, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should be an option for women in any case. The person is a young, urban, educated woman with a right-leaning political ideology and a interest in politics, which suggests that she is likely to be pro-choice and supportive of women's reproductive rights.</s>"}
+{"id_pregunta": 317, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 318, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 319, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 320, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 321, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 322, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 323, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 324, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 325, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 326, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 327, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 328, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 329, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 330, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 331, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 332, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 333, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 334, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 335, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 336, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 337, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 338, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 339, "var_removed": "", "respuesta": " Based on the information provided, it is difficult to determine the person's judgment regarding abortion. The answer \"doesn't know\" indicates a lack of knowledge or opinion on the topic. Therefore, none of the options accurately reflect this person's judgment.</s>"}
+{"id_pregunta": 340, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 341, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. This is due to their right-wing political ideology and their affiliation with the Partido de la Gente (PDG), which is a conservative political party in Chile. Additionally, their religious beliefs as an evangelical Christian may also influence their views on abortion, leading them to believe that it should be prohibited.</s>"}
+{"id_pregunta": 342, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 343, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 344, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 345, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 346, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 347, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 348, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 349, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 350, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 351, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 352, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 353, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 354, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 355, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 356, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 357, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 358, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 359, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 360, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 361, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 362, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 363, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support abortion being an option for women in any case. The fact that they are evangelical and do not know their political ideology suggests that they may be more open to social issues and less concerned with traditional gender roles and restrictions. Additionally, the fact that they are not at all interested in politics suggests that they may not be strongly attached to any particular ideology or party. Therefore, the idea that abortion should be an option for women in any case best expresses this person's judgment regarding abortion.</s>"}
+{"id_pregunta": 364, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 365, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 366, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 367, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 368, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 369, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 370, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 371, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 372, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 373, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 374, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's center-right political ideology and their affiliation with the Partido de la Gente (PDG) party, which tends to be more conservative on social issues like abortion. Additionally, the fact that they are evangelical and have a high school education suggests that they may have strong religious and moral beliefs that influence their views on abortion. However, the fact that they are somewhat interested in politics suggests that they may be open to considering different perspectives and may not be entirely opposed to abortion in all cases.</s>"}
+{"id_pregunta": 375, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 376, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 377, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 378, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 379, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 380, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 381, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 382, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 383, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 384, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 385, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 386, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 387, "var_removed": "", "respuesta": " The best answer for this person's judgment regarding abortion would be \"abortion should only be allowed in special cases.\" This is based on the person's age, socioeconomic status, and political ideology, as well as the fact that they do not answer questions about religion or political parties.</s>"}
+{"id_pregunta": 388, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 389, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 390, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 391, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 392, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 393, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 394, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 395, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 396, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 397, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should be an option for women in any case. This is because the person is a man, aged 30, living in the Metropolitan region of Chile, with a socioeconomic status of C3, and a political ideology of left. Additionally, the person is a member of the Revoluci\u00f3n Democr\u00e1tica (RD) political party, which is known for its progressive and pro-choice stance on abortion. Finally, the person is very interested in political issues, which suggests that they are likely to have a strong opinion on this topic. Therefore, it is likely that this person would support the idea that abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 398, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should always be prohibited.\n\nThis is based on the fact that the person is of extreme right political ideology and is a member of Renovaci\u00f3n Nacional (RN) party, which is known for its anti-abortion stance. Additionally, the person is not very interested in political issues, which suggests that they may hold strong beliefs on this issue but not be open to compromise or nuance.</s>"}
+{"id_pregunta": 399, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 400, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 401, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 402, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 403, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 404, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and religious beliefs as an evangelical Christian suggest that they may hold a strong anti-abortion stance. Additionally, their socioeconomic status and level of education may also contribute to this perspective, as they may be more likely to hold traditional or conservative values.</s>"}
+{"id_pregunta": 405, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 406, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 407, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 408, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 409, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 410, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 411, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 412, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 413, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 414, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 415, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 416, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 417, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 418, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's center-left political ideology and their affiliation with the Democracia Cristiana (DC) party, which tends to be more conservative on social issues like abortion. Additionally, the fact that they are somewhat interested in politics suggests that they may be more open to considering different perspectives on the issue, but still leaning towards a more restrictive stance.</s>"}
+{"id_pregunta": 419, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 420, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 421, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would express the idea that abortion should always be prohibited. This is due to their extreme right political ideology and their affiliation with the Renovaci\u00f3n Nacional (RN) party, which tends to be more conservative on social issues such as abortion. Additionally, their religious affiliation as a Mormon may also influence their beliefs on abortion, as Mormons generally believe in the sanctity of human life and oppose abortion.</s>"}
+{"id_pregunta": 422, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 423, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 424, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's center-right political ideology and their affiliation with the Democracia Cristiana (DC) party, which tends to hold more conservative views on social issues like abortion. Additionally, the fact that they are \"somewhat interested\" in politics suggests that they may have a more nuanced view on the issue, but still lean towards restricting access to abortion.</s>"}
+{"id_pregunta": 425, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 426, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 427, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 428, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and Catholic religion suggest that they may hold a conservative view on abortion. Additionally, their lack of political interest may indicate that they do not feel strongly about the issue.</s>"}
+{"id_pregunta": 429, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 430, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their right-wing political ideology and membership in the Uni\u00f3n Dem\u00f3crata Independiente (UDI) party suggest that they may hold conservative views on social issues like abortion. Additionally, their high level of education and socioeconomic status may also influence their opinion on this issue.</s>"}
+{"id_pregunta": 431, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 432, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 433, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 434, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and Catholic religion suggest that they may be opposed to abortion except in rare circumstances, if at all.</s>"}
+{"id_pregunta": 435, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their right-wing political ideology and evangelical religious beliefs suggest that they may be opposed to abortion except in special cases, such as when the mother's life is at risk.</s>"}
+{"id_pregunta": 436, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 437, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 438, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 439, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 440, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 441, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 442, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should be an option for women in any case.\n\nThis is based on the person's political ideology (left) and their political party (Partido Comunista), which suggest that they are likely to support progressive and feminist views on reproductive rights. Additionally, the person's high school completion and very interested political interest suggest that they are well-informed and passionate about their beliefs.</s>"}
+{"id_pregunta": 443, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 444, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 445, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 446, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 447, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 448, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 449, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 450, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 451, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 452, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 453, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 454, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 455, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 456, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 457, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 458, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases. This person's extreme left political ideology and Catholic religion may lead them to believe that abortion should only be allowed in certain situations, such as when the mother's life is at risk or in cases of rape or incest.</s>"}
+{"id_pregunta": 459, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 460, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 461, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 462, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 463, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would answer \"Abortion should always be prohibited\" as their judgment regarding abortion. This is due to their extreme right political ideology and their affiliation with the Partido Republicano, which are both associated with socially conservative views on issues such as abortion. Additionally, their religious affiliation as a Catholic and their high level of education may also influence their opinion to be more restrictive on abortion.</s>"}
+{"id_pregunta": 464, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 465, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 466, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.\n\nThis is based on the person's center-right political ideology and their affiliation with the Uni\u00f3n Dem\u00f3crata Independiente (UDI) party, which tends to be more conservative on social issues like abortion. Additionally, the person's Catholic religion may also influence their view that abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 467, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 468, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would answer \"Abortion should always be prohibited\" as they are evangelic and do not answer questions about political ideology.</s>"}
+{"id_pregunta": 469, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 470, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 471, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 472, "var_removed": "", "respuesta": " Abortion should be an option for women in any case. This person's extreme left political ideology and their complete university education suggest that they are likely to support progressive and inclusive policies, including the right to access safe and legal abortion.</s>"}
+{"id_pregunta": 473, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 474, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 475, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 476, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. This is based on the fact that they are extreme right and have no political interest, which suggests that they may hold more conservative and traditional values. Additionally, their religious affiliation as Catholic may also influence their views on abortion, as the Catholic Church is known for its opposition to abortion.</s>"}
+{"id_pregunta": 477, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 478, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 479, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 480, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 481, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 482, "var_removed": "", "respuesta": " Based on the provided information, it is likely that the person would support the idea that \"abortion should be an option for women in any case.\" This is based on the person's center-left political ideology and their Catholic religious affiliation, which are both associated with more progressive and inclusive views on reproductive rights. Additionally, the person's high school completion and C2 socioeconomic status suggest that they may have a more modern and open-minded perspective on social issues.</s>"}
+{"id_pregunta": 483, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 484, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 485, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 486, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 487, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 488, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 489, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 490, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would support the idea that abortion should be an option for women in any case. This is based on the person's center-left political ideology and their high school completion, which may indicate a more progressive or liberal view on social issues like abortion. Additionally, the fact that the person is Mapuche and Catholic may not necessarily align with traditional religious views on abortion, and their lack of interest in politics may suggest that they do not have strong feelings on the issue.</s>"}
+{"id_pregunta": 491, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should only be allowed in special cases. This is based on their right political ideology and their affiliation with the Democracia Cristiana (DC) political party, which is a center-right party that has historically been opposed to abortion. Additionally, the person's advanced age and high level of education suggest that they may be more conservative and opposed to abortion except in extreme circumstances.</s>"}
+{"id_pregunta": 492, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 493, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 494, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 495, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 496, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 497, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 498, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 499, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 500, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 501, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 502, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 503, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 504, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 505, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 506, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 507, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 508, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 509, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 510, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 511, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 512, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 513, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 514, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 515, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 516, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 517, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 518, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 519, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and evangelic religion suggest that they may hold a conservative and pro-life stance on abortion.</s>"}
+{"id_pregunta": 520, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should be an option for women in any case. As a center-left individual with a university education and a strong political interest, it is likely that this person would hold progressive views on social issues such as reproductive rights. Additionally, the fact that this person is a member of the Partido Socialista (PS), a political party that is generally supportive of progressive social policies, further suggests that they would support the idea that abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 521, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would express the idea that abortion should always be prohibited. This is due to their extreme right political ideology and Catholic religion, which are both associated with anti-abortion views. Additionally, the person's lack of interest in political issues and low level of education may also suggest that they hold more traditional or conservative values on this issue.</s>"}
+{"id_pregunta": 522, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 523, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 524, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 525, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 526, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 527, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 528, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 529, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 530, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should be an option for women in any case. The person is male, young (27), and has a low socioeconomic status (C2), which may suggest that they are more open to progressive and liberal ideas. Additionally, the fact that they are from the Arica y Parinacota region, which is known for its diverse cultural and ethnic background, may also influence their views on social issues like abortion. Finally, the fact that they do not identify with any common religion and do not answer questions about political ideology suggests that they may be more open to alternative perspectives and less influenced by traditional or conservative values. Therefore, the idea that abortion should be an option for women in any case is the best expression of this person's judgment regarding abortion.</s>"}
+{"id_pregunta": 531, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 532, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 533, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 534, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 535, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 536, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 537, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 538, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 539, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 540, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 541, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and affiliation with the Renovaci\u00f3n Nacional (RN) party suggest that they may hold conservative views on social issues such as abortion. Additionally, their low level of education and lack of interest in politics may also contribute to a more traditional or conservative viewpoint on this issue.</s>"}
+{"id_pregunta": 542, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 543, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should always be prohibited.\n\nThis is based on the person's right-wing political ideology and their affiliation with the Renovaci\u00f3n Nacional (RN) party, which is known for its conservative stance on social issues such as abortion. Additionally, the person's religious beliefs as an evangelical Christian may also influence their opposition to abortion.</s>"}
+{"id_pregunta": 544, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 545, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 546, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 547, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 548, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 549, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 550, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 551, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 552, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 553, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 554, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 555, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 556, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 557, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 558, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 559, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 560, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 561, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 562, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 563, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 564, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 565, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 566, "var_removed": "", "respuesta": " Based on the information provided, it is difficult to determine which idea best expresses this person's judgment regarding abortion. The answer \"doesn't know\" suggests that the person is not familiar with the issue or does not have a strong opinion on it. Therefore, none of the options accurately reflect this person's perspective on abortion.</s>"}
+{"id_pregunta": 567, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 568, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 569, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 570, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 571, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would support the idea that abortion should always be prohibited. The person is 67 years old, male, and has an extreme right political ideology, which is associated with a more conservative and traditional view of social issues such as abortion. Additionally, the person is not interested in political issues, which suggests that they may have a more rigid and inflexible view on these issues. Therefore, the idea that abortion should always be prohibited is the best expression of this person's judgment regarding abortion.</s>"}
+{"id_pregunta": 572, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 573, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 574, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 575, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 576, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 577, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 578, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 579, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 580, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 581, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 582, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should always be prohibited.</s>"}
+{"id_pregunta": 583, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 584, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 585, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 586, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would express the idea that abortion should always be prohibited. Their right-wing political ideology and Catholic religion suggest that they may be opposed to abortion except in extreme circumstances, such as to save the life of the mother. Additionally, their high level of education and socioeconomic status may influence their views on the matter.</s>"}
+{"id_pregunta": 587, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 588, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 589, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 590, "var_removed": "", "respuesta": " Abortion should be an option for women in any case. This person's extreme left political ideology and membership in the Partido Comunista (PC) suggest that they likely support progressive and inclusive policies, including the right to access safe and legal abortion. Additionally, their high level of political interest suggests that they are likely to be well-informed and engaged on this issue.</s>"}
+{"id_pregunta": 591, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 592, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 593, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their extreme right political ideology and evangelic religion suggest that they may hold conservative views on social issues such as abortion. Additionally, their somewhat interested political interest in the topic suggests that they may have strong feelings on the subject.</s>"}
+{"id_pregunta": 594, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 595, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 596, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 597, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 598, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 599, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should always be prohibited. Their right-wing political ideology and evangelical religion suggest that they may hold conservative views on social issues like abortion. Additionally, their lack of interest in politics and low level of education may indicate that they do not have a strong understanding of the complex issues surrounding abortion and reproductive rights.</s>"}
+{"id_pregunta": 600, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 601, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 602, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 603, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 604, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 605, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 606, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 607, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 608, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 609, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 610, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 611, "var_removed": "", "respuesta": " Based on the information provided, the idea that best expresses this person's judgment regarding abortion is:\n\nAbortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 612, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 613, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 614, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 615, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 616, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 617, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 618, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 619, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 620, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 621, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 622, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 623, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 624, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 625, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 626, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 627, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 628, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 629, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 630, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 631, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would answer \"Abortion should always be prohibited\" as their judgment regarding abortion. This is due to their young age, male gender, and right political ideology, which are all factors that are commonly associated with a more conservative view on abortion. Additionally, the fact that they are not very interested in politics and do not answer questions about religion suggests that they may not have a strong opinion on the matter.</s>"}
+{"id_pregunta": 632, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 633, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases. This person's background and political affiliation suggest that they may hold more conservative views on social issues like abortion, and may be more likely to support restrictions on access to the procedure.</s>"}
+{"id_pregunta": 634, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 635, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 636, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 637, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 638, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 639, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 640, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 641, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 642, "var_removed": "", "respuesta": " Based on the information provided, it is likely that this person would express the idea that abortion should only be allowed in special cases. This is based on their Catholic religion and the fact that they do not answer questions about their political ideology, which may suggest that they hold more conservative views on social issues. Additionally, the fact that they are somewhat interested in politics but do not belong to any political party may indicate that they hold more moderate or centrist views.</s>"}
+{"id_pregunta": 643, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 644, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases. This person's Catholic background and center-left political ideology suggest that they may believe that abortion should only be allowed in certain circumstances, such as when the mother's life is at risk or in cases of rape or incest.</s>"}
+{"id_pregunta": 645, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 646, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 647, "var_removed": "", "respuesta": " Based on the provided information, it is likely that this person would support the idea that abortion should be an option for women in any case. This is based on their center-left political ideology and their affiliation with the Democracia Cristiana (DC) party, which is known for being pro-choice. Additionally, the fact that they have a university degree and are somewhat interested in politics suggests that they are likely to be well-informed and open-minded on this issue.</s>"}
+{"id_pregunta": 648, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 649, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 650, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 651, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 652, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 653, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 654, "var_removed": "", "respuesta": " Abortion should always be prohibited.</s>"}
+{"id_pregunta": 655, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
+{"id_pregunta": 656, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 657, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 658, "var_removed": "", "respuesta": " Abortion should only be allowed in special cases.</s>"}
+{"id_pregunta": 659, "var_removed": "", "respuesta": " Abortion should be an option for women in any case.</s>"}
