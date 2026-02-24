@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 from scipy.spatial.distance import jensenshannon
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, cohen_kappa_score
 
 def percentage_per_option(votes_column, n_options):
   """ Calculates the proportion of people for each choice, vote or opinion.
@@ -153,12 +153,13 @@ def get_people_in_group_chile(df, charasteristic, id):
 
 
 def _compute_group_metrics(df_group, pred_variable, pred_column_name, n_options):
-  """Compute JSD, accuracy, harmonic mean, and JSS for a DataFrame subset."""
+  """Compute JSD, accuracy, harmonic mean, JSS, and Cohen's Kappa for a DataFrame subset."""
   jsd = jsd_function(df_group[pred_variable], df_group[pred_column_name], n_options)
   acc = accuracy_score(df_group[pred_variable], df_group[pred_column_name])
   h = harmonic_mean(jsd, acc)
   jss = 1 - jsd
-  return jsd, acc, h, jss
+  kappa = cohen_kappa_score(df_group[pred_variable], df_group[pred_column_name])
+  return jsd, acc, h, jss, kappa
 
 
 def metrics_group_chile(df, charasteristic, id, pred_variable, pred_column_name, n_options, n_bootstrap=0, confidence_level=0.95, random_seed=None):
@@ -182,16 +183,16 @@ def metrics_group_chile(df, charasteristic, id, pred_variable, pred_column_name,
 
   if len(df_group) == 0:
     if n_bootstrap > 0:
-      return [None] * 12
-    return [None] * 4
+      return [None] * 15
+    return [None] * 5
 
-  jsd, acc, h, jss = _compute_group_metrics(df_group, pred_variable, pred_column_name, n_options)
+  jsd, acc, h, jss, kappa = _compute_group_metrics(df_group, pred_variable, pred_column_name, n_options)
 
   if n_bootstrap <= 0:
-    return [jsd, acc, h, jss]
+    return [jsd, acc, h, jss, kappa]
 
   rng = np.random.default_rng(random_seed)
-  boot_metrics = np.empty((n_bootstrap, 4))
+  boot_metrics = np.empty((n_bootstrap, 5))
   n_samples = len(df_group)
 
   for i in range(n_bootstrap):
@@ -202,7 +203,7 @@ def metrics_group_chile(df, charasteristic, id, pred_variable, pred_column_name,
   lo = np.nanpercentile(boot_metrics, 100 * alpha / 2, axis=0)
   hi = np.nanpercentile(boot_metrics, 100 * (1 - alpha / 2), axis=0)
 
-  return [jsd, acc, h, jss, lo[0], hi[0], lo[1], hi[1], lo[2], hi[2], lo[3], hi[3]]
+  return [jsd, acc, h, jss, kappa, lo[0], hi[0], lo[1], hi[1], lo[2], hi[2], lo[3], hi[3], lo[4], hi[4]]
 
 # metrics_dataset_gen: dataframe -> dataframe
 # Returns a dataframe with metrics for each sociodemografic group and total.
@@ -227,9 +228,10 @@ def metrics_dataset_gen_chile(df, pred_variable, pred_column_name="pred", n_opti
          "High Class", "Middle Class", "Low Class","Left", "Center", "Right", "No ideology", \
          "Religious", "Atheist/agnostic", 'No religion response']
 
-  base_columns = ["Group", "JSD", "Accuracy", "Harmonic Mean", "JSS"]
+  base_columns = ["Group", "JSD", "Accuracy", "Harmonic Mean", "JSS", "Kappa"]
   ci_columns = ["JSD_CI_lower", "JSD_CI_upper", "Accuracy_CI_lower", "Accuracy_CI_upper",
-                 "Harmonic Mean_CI_lower", "Harmonic Mean_CI_upper", "JSS_CI_lower", "JSS_CI_upper"]
+                 "Harmonic Mean_CI_lower", "Harmonic Mean_CI_upper", "JSS_CI_lower", "JSS_CI_upper",
+                 "Kappa_CI_lower", "Kappa_CI_upper"]
 
   if n_bootstrap > 0:
     columns = base_columns + ci_columns
@@ -273,12 +275,12 @@ def metrics_dataset_gen_chile(df, pred_variable, pred_column_name="pred", n_opti
   metrics_df.loc[23] = [group_names[23]] + metrics_group_chile(df, "religion_82", "doesnt know", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
 
   # Total row
-  total_jsd, total_acc, total_h, total_jss = _compute_group_metrics(df, pred_variable, pred_column_name, n_options)
-  total_row = [total_jsd, total_acc, total_h, total_jss]
+  total_jsd, total_acc, total_h, total_jss, total_kappa = _compute_group_metrics(df, pred_variable, pred_column_name, n_options)
+  total_row = [total_jsd, total_acc, total_h, total_jss, total_kappa]
 
   if n_bootstrap > 0:
     rng = np.random.default_rng(random_seed)
-    boot_metrics = np.empty((n_bootstrap, 4))
+    boot_metrics = np.empty((n_bootstrap, 5))
     n_samples = len(df)
     for i in range(n_bootstrap):
       sample = df.sample(n=n_samples, replace=True, random_state=int(rng.integers(0, 2**31)))
@@ -286,7 +288,7 @@ def metrics_dataset_gen_chile(df, pred_variable, pred_column_name="pred", n_opti
     alpha = 1 - confidence_level
     lo = np.nanpercentile(boot_metrics, 100 * alpha / 2, axis=0)
     hi = np.nanpercentile(boot_metrics, 100 * (1 - alpha / 2), axis=0)
-    total_row += [lo[0], hi[0], lo[1], hi[1], lo[2], hi[2], lo[3], hi[3]]
+    total_row += [lo[0], hi[0], lo[1], hi[1], lo[2], hi[2], lo[3], hi[3], lo[4], hi[4]]
 
   metrics_df.loc[24] = ["Total"] + total_row
 
