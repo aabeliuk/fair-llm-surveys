@@ -414,3 +414,205 @@ def quantities_per_option_per_group(df, column, options):
 
   quantities_df.loc[23] = ["Total"] + options_quantity_list
   return quantities_df
+
+
+def get_people_in_group_usa(df, characteristic, id):
+  """Filter people of a specific group in the USA (ANES) dataframe.
+
+  :param df: a pd.DataFrame, the test dataset containing all persons.
+  :param characteristic: a string, the column by which people will be filtered.
+  :param id: a string or int, the indicator for the group to filter.
+  :return: a pd.DataFrame, containing only the people that belong to the desired group.
+  """
+  group_index = None
+
+  if characteristic == "sexo":
+    group_index = (df[characteristic] == id)
+
+  elif characteristic == "edad":
+    if id == "young":
+      group_index = (df["edad"] >= 18) & (df["edad"] <= 26)
+    elif id == "adult":
+      group_index = (df["edad"] >= 27) & (df["edad"] <= 59)
+    elif id == "senior":
+      group_index = (df["edad"] >= 60)
+
+  elif characteristic == "zona_u_r":
+    if id == "city":
+      group_index = (df[characteristic] == 1) | (df[characteristic] == 2)
+    elif id == "rural":
+      group_index = (df[characteristic] == 3) | (df[characteristic] == 4)
+
+  elif characteristic == "race":
+    if id == "white":
+      group_index = (df[characteristic] == 1)
+    elif id == "non-white":
+      group_index = (df[characteristic] == 2) | (df[characteristic] == 3) | (df[characteristic] == 4) | (df[characteristic] == 5) | (df[characteristic] == 6)
+
+  elif characteristic == "esc_nivel_1":
+    if id == "low education":
+      group_index = (df[characteristic] == 1) | (df[characteristic] == 2)
+    elif id == "medium education":
+      group_index = (df[characteristic] == 2) | (df[characteristic] == 3) | (df[characteristic] == 4) | (df[characteristic] == 5)
+    elif id == "high education":
+      group_index = (df[characteristic] == 6) | (df[characteristic] == 7) | (df[characteristic] == 8)
+
+  elif characteristic == "gse":
+    if id == "high class":
+      group_index = (df["gse"] == 20) | (df["gse"] == 21) | (df["gse"] == 22)
+    elif id == "middle class":
+      group_index = (df["gse"] >= 10) & (df["gse"] <= 19)
+    elif id == "poor":
+      group_index = (df["gse"] >= 1) & (df["gse"] <= 9)
+
+  elif characteristic == "iden_pol_2":
+    if id == "left":
+      group_index = (df[characteristic] == 1) | (df[characteristic] == 2) | (df[characteristic] == 3)
+    elif id == "center":
+      group_index = (df[characteristic] == 4)
+    elif id == "right":
+      group_index = (df[characteristic] == 5) | (df[characteristic] == 6) | (df[characteristic] == 7)
+    elif id == "none":
+      group_index = (df[characteristic] == 88) | (df[characteristic] == 99) | (df[characteristic] == -9) | (df[characteristic] == -8)
+
+  elif characteristic == "iden_pol_3":
+    if id == "democrat":
+      group_index = (df[characteristic] == 1) | (df[characteristic] == 2)
+    elif id == "republican":
+      group_index = (df[characteristic] == 6) | (df[characteristic] == 7)
+    elif id == "other":
+      group_index = (df[characteristic] == 3) | (df[characteristic] == 4) | (df[characteristic] == 5) | (df[characteristic] == 88) | (df[characteristic] == 99) | (df[characteristic] == -8) | (df[characteristic] == -9)
+
+  elif characteristic == "religion_82":
+    if id == "religious":
+      group_index = (df[characteristic] == 1) | (df[characteristic] == 2) | (df[characteristic] == 3) | (df[characteristic] == 4) | (df[characteristic] == 5) | (df[characteristic] == 6) | (df[characteristic] == 7) | (df[characteristic] == 8)
+    elif id == "atheist/agnostic":
+      group_index = (df[characteristic] == 9) | (df[characteristic] == 10) | (df[characteristic] == 11) | (df[characteristic] == 12)
+    elif id == "doesnt know":
+      group_index = (df[characteristic] == 88) | (df[characteristic] == 99) | (df[characteristic] == -8) | (df[characteristic] == -9)
+
+  else:
+    group_index = df[characteristic] == id
+
+  df_group = df[group_index]
+  return df_group
+
+
+def metrics_group_usa(df, characteristic, id, pred_variable, pred_column_name, n_options, n_bootstrap=0, confidence_level=0.95, random_seed=None):
+  """Calculates metrics for a specific sociodemographic group in the USA dataframe.
+
+  Same structure as metrics_group_chile but calls get_people_in_group_usa.
+  """
+  df_group = get_people_in_group_usa(df, characteristic, id)
+
+  if len(df_group) == 0:
+    if n_bootstrap > 0:
+      return [None] * 15
+    return [None] * 5
+
+  jsd, acc, h, jss, kappa = _compute_group_metrics(df_group, pred_variable, pred_column_name, n_options)
+
+  if n_bootstrap <= 0:
+    return [jsd, acc, h, jss, kappa]
+
+  rng = np.random.default_rng(random_seed)
+  boot_metrics = np.empty((n_bootstrap, 5))
+  n_samples = len(df_group)
+
+  for i in range(n_bootstrap):
+    sample = df_group.sample(n=n_samples, replace=True, random_state=int(rng.integers(0, 2**31)))
+    boot_metrics[i] = _compute_group_metrics(sample, pred_variable, pred_column_name, n_options)
+
+  alpha = 1 - confidence_level
+  lo = np.nanpercentile(boot_metrics, 100 * alpha / 2, axis=0)
+  hi = np.nanpercentile(boot_metrics, 100 * (1 - alpha / 2), axis=0)
+
+  return [jsd, acc, h, jss, kappa, lo[0], hi[0], lo[1], hi[1], lo[2], hi[2], lo[3], hi[3], lo[4], hi[4]]
+
+
+def metrics_dataset_gen_usa(df, pred_variable, pred_column_name="pred", n_options=3, n_bootstrap=0, confidence_level=0.95, random_seed=None):
+  """Returns a dataframe with metrics for each sociodemographic group and total (USA/ANES data).
+
+  :param df: a pd.DataFrame, the test dataset containing all persons.
+  :param pred_variable: a string, the column containing the original values.
+  :param pred_column_name: a string, the column containing the predictions.
+  :param n_options: an int, number of options for the predicted question.
+  :param n_bootstrap: an int, number of bootstrap iterations (0 = no bootstrapping).
+  :param confidence_level: a float, confidence level for bootstrap intervals.
+  :param random_seed: an int or None, optional seed for reproducibility.
+  :return: a pd.DataFrame with metrics per sociodemographic group.
+  """
+
+  group_names = ["Woman", "Man", "Young adult", "Adult", "Senior adult", "City/Suburb",
+         "Small town/Rural", "White", "Non-White",
+         "Low education", "Medium education", "High education",
+         "Low class", "Middle class", "High class", "Left", "Center", "Right", "No ideology",
+         "Democrat", "Republican", "None party", "Religious", "Atheist/agnostic", "No religion response"]
+
+  base_columns = ["Group", "JSD", "Accuracy", "Harmonic Mean", "JSS", "Kappa"]
+  ci_columns = ["JSD_CI_lower", "JSD_CI_upper", "Accuracy_CI_lower", "Accuracy_CI_upper",
+                 "Harmonic Mean_CI_lower", "Harmonic Mean_CI_upper", "JSS_CI_lower", "JSS_CI_upper",
+                 "Kappa_CI_lower", "Kappa_CI_upper"]
+
+  if n_bootstrap > 0:
+    columns = base_columns + ci_columns
+  else:
+    columns = base_columns
+
+  metrics_df = pd.DataFrame(columns=columns)
+
+  bootstrap_kwargs = dict(n_bootstrap=n_bootstrap, confidence_level=confidence_level, random_seed=random_seed)
+
+  metrics_df.loc[0] = [group_names[0]] + metrics_group_usa(df, "sexo", 2, pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[1] = [group_names[1]] + metrics_group_usa(df, "sexo", 1, pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[2] = [group_names[2]] + metrics_group_usa(df, "edad", "young", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[3] = [group_names[3]] + metrics_group_usa(df, "edad", "adult", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[4] = [group_names[4]] + metrics_group_usa(df, "edad", "senior", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[5] = [group_names[5]] + metrics_group_usa(df, "zona_u_r", "city", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[6] = [group_names[6]] + metrics_group_usa(df, "zona_u_r", "rural", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[7] = [group_names[7]] + metrics_group_usa(df, "race", "white", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[8] = [group_names[8]] + metrics_group_usa(df, "race", "non-white", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[9] = [group_names[9]] + metrics_group_usa(df, "esc_nivel_1", "low education", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[10] = [group_names[10]] + metrics_group_usa(df, "esc_nivel_1", "medium education", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[11] = [group_names[11]] + metrics_group_usa(df, "esc_nivel_1", "high education", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[12] = [group_names[12]] + metrics_group_usa(df, "gse", "poor", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[13] = [group_names[13]] + metrics_group_usa(df, "gse", "middle class", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[14] = [group_names[14]] + metrics_group_usa(df, "gse", "high class", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[15] = [group_names[15]] + metrics_group_usa(df, "iden_pol_2", "left", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[16] = [group_names[16]] + metrics_group_usa(df, "iden_pol_2", "center", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[17] = [group_names[17]] + metrics_group_usa(df, "iden_pol_2", "right", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[18] = [group_names[18]] + metrics_group_usa(df, "iden_pol_2", "none", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[19] = [group_names[19]] + metrics_group_usa(df, "iden_pol_3", "democrat", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[20] = [group_names[20]] + metrics_group_usa(df, "iden_pol_3", "republican", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[21] = [group_names[21]] + metrics_group_usa(df, "iden_pol_3", "other", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  metrics_df.loc[22] = [group_names[22]] + metrics_group_usa(df, "religion_82", "religious", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[23] = [group_names[23]] + metrics_group_usa(df, "religion_82", "atheist/agnostic", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[24] = [group_names[24]] + metrics_group_usa(df, "religion_82", "doesnt know", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+
+  # Total row
+  total_jsd, total_acc, total_h, total_jss, total_kappa = _compute_group_metrics(df, pred_variable, pred_column_name, n_options)
+  total_row = [total_jsd, total_acc, total_h, total_jss, total_kappa]
+
+  if n_bootstrap > 0:
+    rng = np.random.default_rng(random_seed)
+    boot_metrics = np.empty((n_bootstrap, 5))
+    n_samples = len(df)
+    for i in range(n_bootstrap):
+      sample = df.sample(n=n_samples, replace=True, random_state=int(rng.integers(0, 2**31)))
+      boot_metrics[i] = _compute_group_metrics(sample, pred_variable, pred_column_name, n_options)
+    alpha = 1 - confidence_level
+    lo = np.nanpercentile(boot_metrics, 100 * alpha / 2, axis=0)
+    hi = np.nanpercentile(boot_metrics, 100 * (1 - alpha / 2), axis=0)
+    total_row += [lo[0], hi[0], lo[1], hi[1], lo[2], hi[2], lo[3], hi[3], lo[4], hi[4]]
+
+  metrics_df.loc[25] = ["Total"] + total_row
+
+  return metrics_df

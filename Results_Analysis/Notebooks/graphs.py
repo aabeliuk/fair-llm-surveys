@@ -6,7 +6,7 @@ import vapeplot
 import matplotlib.pyplot as plt
 
 from matplotlib.transforms import ScaledTranslation
-from metrics import quantities_per_option_per_group, metrics_dataset_gen_chile
+from metrics import quantities_per_option_per_group, metrics_dataset_gen_chile, metrics_dataset_gen_usa
 
 
 def prompting_bar(df_list, title, x_label, metric = "Accuracy"):
@@ -228,6 +228,73 @@ def sociodemographic_line_plot(modelos, modelos_colores, modelos_nombres, title)
   ax.legend(loc='lower right')
   ax.set_title(title)
 
+
+  for label in ax.get_xticklabels():
+    offset = ScaledTranslation(5/72, 0, fig.dpi_scale_trans)
+    label.set_transform(label.get_transform() + offset)
+
+  plt.tight_layout()
+  plt.show()
+
+
+def sociodemographic_line_plot_usa(modelos, modelos_colores, modelos_nombres, title):
+  fig, ax = plt.subplots(figsize=(12, 6))
+
+  plt.style.use('https://github.com/dhaitz/matplotlib-stylesheets/raw/master/pacoty.mplstyle')
+
+  grupos = {
+    "Gender": (0, 1),
+    "Age": (2, 4),
+    "Zone": (5, 6),
+    "Race": (7, 8),
+    "Education": (9, 11),
+    "GSE": (12, 14),
+    "Ideology": (15, 18),
+    "Party": (19, 21),
+    "Religion": (22, 23),
+  }
+
+  colores = {
+    "Gender": "#f0f8ff",
+    "Age": "#ffebcd",
+    "Zone": "#add8e6",
+    "Race": "#A49CF2",
+    "Education": "#8FBC8F",
+    "GSE": "#d3f8d3",
+    "Ideology": "#ffe4e1",
+    "Party": "#e0f7fa",
+    "Religion": "#fffacd",
+  }
+
+  for grupo, (inicio, fin) in grupos.items():
+    ax.axvspan(inicio - 0.5, fin + 0.5, color=colores[grupo], alpha=0.5)
+
+  CI_LOWER = "Harmonic Mean_CI_lower"
+  CI_UPPER = "Harmonic Mean_CI_upper"
+
+  for modelo_data, modelo_nombre in zip(modelos, modelos_nombres):
+    modelo_data = modelo_data[modelo_data['Group'] != "No religion response"]
+    modelo_data = modelo_data[modelo_data['Group'] != "Total"]
+    modelo_data = modelo_data.reset_index(drop=True)
+    has_ci = CI_LOWER in modelo_data.columns and CI_UPPER in modelo_data.columns
+    for grupo, (inicio, fin) in grupos.items():
+      x = list(range(inicio, fin + 1))
+      y = modelo_data["Harmonic Mean"].iloc[inicio:fin + 1]
+      ax.plot(x, y, '-o', label=modelo_nombre if grupo == "Gender" else "", color=modelos_colores[modelo_nombre])
+      if has_ci:
+        y_lo = modelo_data[CI_LOWER].iloc[inicio:fin + 1].astype(float)
+        y_hi = modelo_data[CI_UPPER].iloc[inicio:fin + 1].astype(float)
+        ax.fill_between(x, y_lo, y_hi, color=modelos_colores[modelo_nombre], alpha=0.2)
+
+  data = modelos[0][modelos[0]['Group'] != "No religion response"]
+  data = data[data['Group'] != "Total"]
+  data = data.reset_index(drop=True)
+
+  ax.set_ylim(0, 1)
+  ax.set_xticks(range(len(data["Group"])))
+  ax.set_xticklabels(data["Group"], rotation=80, ha='right')
+  ax.legend(loc='lower right')
+  ax.set_title(title)
 
   for label in ax.get_xticklabels():
     offset = ScaledTranslation(5/72, 0, fig.dpi_scale_trans)

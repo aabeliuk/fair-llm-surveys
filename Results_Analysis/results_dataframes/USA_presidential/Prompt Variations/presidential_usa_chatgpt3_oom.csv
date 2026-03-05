@@ -1,0 +1,665 @@
+,Unnamed: 0.1,race,sexo,edad,zona_u_r,iden_pol_2,iden_pol_3,interes_pol_1_b,church,discuss_politics,elec_pres_144_a,nom_region,religion_82,esc_nivel_1,gse,pred
+0,3528,1,1,38,4,5,6,3,2,1,2,25,2,6,16,Donald Trump
+1,5435,1,1,61,2,6,6,1,1,1,2,34,2,3,18,Donald Trump
+2,5260,1,2,47,3,4,4,2,1,1,1,42,2,6,14,"As a language model AI, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. Therefore, I cannot know who you voted for in the last presidential election or any other personal information that you have not provided in this conversation. If you have any other questions or need assistance with something else, feel free to ask!"
+3,2721,1,2,61,3,2,2,2,2,1,1,6,2,3,22,Joe Biden
+4,3149,1,1,77,3,2,1,1,1,1,1,26,2,8,20,Joe Biden
+5,1926,1,1,55,3,99,3,4,2,1,1,6,11,2,16,"Since you voted for an independent candidate, the system may not have correctly registered it. If you voted for an independent candidate in the US presidential election, please specify the candidate's name, and I can add that to the response."
+6,1209,1,1,54,3,2,1,1,2,1,1,42,9,6,22,Joe Biden
+7,5401,4,1,64,3,3,1,1,2,1,1,59,7,6,12,"As you mentioned you live in another country, it indicates that you are not eligible to vote in the United States presidential election."
+8,4704,1,1,75,4,2,1,2,2,1,1,51,5,4,10,Joe Biden
+9,4705,2,1,69,3,99,1,3,2,1,1,42,-9,6,16,Joe Biden
+10,626,2,2,79,4,3,1,2,2,1,1,1,11,2,4,Joe Biden
+11,5219,1,1,49,3,6,6,3,1,1,2,27,2,6,15,Donald Trump
+12,2781,1,2,56,4,4,1,1,1,1,1,6,1,2,16,Joe Biden
+13,5653,1,1,73,2,6,5,1,1,1,2,12,1,6,18,"It appears that you haven't provided the candidate you voted for in the 2020 presidential election. If you'd like, please provide that information so I can assist you further."
+14,5684,1,2,48,2,3,2,2,2,1,1,26,2,3,18,Joe Biden
+15,4655,1,2,43,2,7,7,2,1,1,2,1,11,6,15,Donald Trump
+16,1564,1,2,80,2,1,1,2,1,1,1,17,11,6,11,Joe Biden
+17,4844,1,2,69,1,6,7,2,1,1,2,48,1,3,16,Donald Trump
+18,3844,1,2,80,4,2,1,1,2,1,1,36,5,8,22,Joe Biden
+19,5361,1,2,64,3,6,6,3,1,1,2,55,11,5,9,Donald Trump
+20,1421,1,1,69,1,5,4,4,2,1,2,27,12,6,-9,"Since you lean slightly conservative and prefer the independent party, it is likely you may have voted for a third-party candidate in the presidential election. However, without additional information, I am unable to determine the specific candidate you voted for in the election."
+21,1158,1,2,80,2,2,1,2,1,1,1,36,5,8,-9,Joe Biden
+22,3076,1,2,63,3,7,7,2,1,1,2,36,1,6,10,Donald Trump
+23,5749,1,1,80,3,1,2,1,1,1,1,36,2,6,11,Joe Biden
+24,2575,1,1,70,1,6,7,2,2,2,2,4,12,4,10,Donald Trump
+25,3977,1,2,27,2,3,3,2,1,1,1,55,1,6,13,Joe Biden
+26,808,1,2,65,4,1,1,1,2,1,1,6,9,6,3,Joe Biden
+27,5803,1,2,28,4,6,5,1,2,1,2,25,2,6,14,Donald Trump
+28,4761,1,1,64,1,4,3,2,2,1,1,34,2,5,14,Joe Biden
+29,538,1,2,59,2,2,1,2,2,1,1,-9,12,3,-9,"Since you did not provide information on where you live and your economic status, the last two details cannot be determined. Would you like me to guess a state for you, or would you prefer to provide that information?"
+30,3161,3,1,60,2,4,4,3,2,1,1,53,11,2,9,"Since you are not very interested in politics and identify as an independent, it is possible that you may have not voted in the election. However, if you did vote, your choice could have been for a candidate from either major party or a third-party candidate."
+31,4945,1,1,41,4,2,1,2,2,1,1,17,12,8,22,Joe Biden
+32,2458,1,2,31,3,6,7,1,1,1,2,47,1,6,17,Donald Trump
+33,3697,1,2,75,4,99,6,3,2,1,2,20,1,3,1,"I'm sorry, but it seems that there might have been an error as your responses don't indicate who you voted for in the presidential election of the United States in the year stated. If you'd like assistance or have any other questions, feel free to let me know."
+34,1186,1,1,39,1,2,1,2,2,1,1,50,12,2,7,Joe Biden
+35,794,3,1,33,4,6,7,1,1,1,2,12,11,5,8,Donald Trump
+36,2236,2,2,44,3,1,1,1,1,1,1,17,1,7,19,Joe Biden
+37,2792,1,1,29,3,2,6,3,2,1,2,17,2,3,17,"Since you mentioned you feel closer to the liberal side and identified as not very strong Republican, it is conflicting. However, given your other details and that you mentioned being closer to the liberal side, I would assume you intended to vote for Joe Biden in the 2020 presidential election."
+38,1319,3,2,57,3,3,1,2,-9,1,1,6,2,7,16,Joe Biden
+39,5464,1,1,65,4,2,1,1,2,1,1,36,10,2,12,Joe Biden
+40,3050,1,2,72,4,4,4,1,1,1,1,48,1,7,-9,Joe Biden
+41,1919,2,2,58,2,4,3,2,1,1,1,28,12,3,1,Joe Biden
+42,2436,1,2,56,1,99,7,2,1,1,2,36,2,2,3,"Due to your selected position on the left-right scale and your sympathy for the Republican party, your response indicates a contradiction in your reported ideological views and political affiliation. Can you please confirm your choice for the presidential candidate in the given context?"
+43,1720,4,1,54,4,4,2,2,1,2,1,42,7,7,11,It is not explicitly mentioned who you voted for in the presidential election of the United States in the information provided. Can you please specify for whom you voted in the election?
+44,23,1,2,46,4,2,1,1,2,1,1,16,1,7,4,Joe Biden
+45,177,1,2,79,2,7,7,1,1,1,2,55,11,6,14,Donald Trump
+46,157,1,2,48,3,99,5,4,2,1,2,6,12,3,16,"As you have selected ""Not at all interested"" in politics, there would be no specific presidential candidate you voted for in the election."
+47,2103,1,1,57,3,7,7,1,2,1,2,6,1,6,21,Donald Trump
+48,3539,3,2,49,3,99,2,2,2,1,1,17,11,3,11,Joe Biden
+49,2841,1,1,79,3,3,3,1,1,1,1,36,2,3,14,Joe Biden
+50,3148,1,2,53,1,99,6,4,2,2,2,6,2,2,1,"Based on the information provided, it seems like you voted for Joe Biden in the 2020 presidential election."
+51,2842,1,1,45,3,6,6,2,1,1,2,42,11,7,21,Donald Trump
+52,3917,1,2,41,3,3,2,3,2,1,1,41,1,6,21,Joe Biden
+53,5556,1,1,65,3,6,5,1,1,1,1,25,1,6,9,Donald Trump
+54,2245,1,2,58,4,4,3,2,2,1,1,48,1,4,21,Joe Biden
+55,5262,1,1,72,2,99,6,3,1,1,1,42,2,6,-9,I'm truly sorry. I can't assist with that request.
+56,4741,1,2,71,3,3,1,1,1,1,1,36,5,5,4,Joe Biden
+57,622,1,2,24,2,1,1,1,2,1,1,25,10,2,-9,Joe Biden
+58,1047,1,2,59,2,6,7,1,1,1,2,17,1,7,12,Donald Trump
+59,296,4,2,39,4,1,1,2,2,1,1,-9,10,7,19,Joe Biden
+60,506,-9,2,80,2,5,7,2,1,1,2,55,2,3,-9,Donald Trump
+61,239,1,1,80,2,99,1,2,2,2,1,41,12,2,5,Joe Biden
+62,907,3,1,23,3,2,1,1,2,1,1,12,2,6,11,Joe Biden
+63,2223,1,1,60,3,5,5,2,1,1,2,6,1,8,21,Donald Trump
+64,3755,1,2,47,1,7,7,2,1,1,2,13,11,2,-9,"I'm sorry, I cannot provide voting information for users."
+65,1728,3,2,50,4,99,2,3,1,2,1,48,11,3,4,"I'm sorry, but it seems like you did not answer that question. If you can provide your vote in the presidential election, I can let you know the candidate you voted for."
+66,2098,1,2,61,2,5,6,2,1,1,2,53,1,5,7,Donald Trump
+67,5600,1,1,23,3,6,7,2,1,1,2,18,1,6,20,Donald Trump
+68,2284,3,1,63,3,5,5,2,2,1,1,35,2,6,16,Donald Trump.
+69,2348,1,2,33,3,6,7,4,2,1,2,29,2,7,21,Donald Trump
+70,1163,1,-9,62,2,4,4,1,2,1,1,-9,12,5,-9,"As an AI assistant, I don't have access to personal information such as your gender, location, or financial status. However, based on the information provided, it seems you prefer not to disclose certain details for privacy reasons. If you would like to share your vote in the election, please go ahead."
+71,5676,1,2,58,1,99,7,3,2,1,2,42,1,2,14,Donald Trump
+72,346,1,2,46,2,7,7,2,1,1,2,55,2,4,16,Donald Trump
+73,5011,1,2,65,3,2,1,1,2,1,1,19,9,8,1,Joe Biden
+74,5851,1,2,67,1,4,1,2,2,1,1,42,2,2,6,Joe Biden
+75,1406,1,2,50,3,4,7,1,2,1,1,26,1,8,22,Donald Trump
+76,3459,1,1,27,4,1,3,1,2,1,1,17,5,8,-9,Joe Biden
+77,5652,5,2,30,1,5,6,1,1,1,1,40,1,3,11,Donald Trump
+78,2366,2,1,52,4,3,2,2,2,1,1,39,1,6,15,Joe Biden
+79,1756,1,2,64,1,7,7,1,1,1,2,54,1,2,16,Donald Trump.
+80,84,5,1,66,2,6,5,2,1,1,2,-9,1,5,19,"As a neutral AI, I do not have personal opinions or the ability to vote. My purpose is to provide information and assistance. If you would like, I can provide you with information about the candidates in the election."
+81,393,1,2,67,2,6,7,1,1,1,2,25,2,5,1,Donald Trump
+82,5285,5,2,60,3,4,2,2,2,1,1,59,6,3,15,I'm sorry but I am unable to provide a suggested answer to your political query.
+83,319,3,2,80,4,7,1,3,1,1,1,48,2,1,1,Joe Biden
+84,1420,1,1,80,4,4,4,2,2,1,1,59,2,2,9,"Since you mentioned you live in another country, it is important to note that only individuals who are living in the United States can vote in the presidential election. If you are an American citizen living abroad, you may be able to vote via an absentee ballot, but it would depend on the state regulations.
+
+If you are not eligible to vote in the U.S. presidential election, I can't provide a specific answer to your question. If you have any other queries, feel free to ask."
+85,4599,1,1,43,4,6,6,2,2,1,2,38,11,3,10,Donald Trump
+86,3181,1,2,35,4,6,7,2,1,1,2,21,1,8,20,Donald Trump
+87,4190,1,2,54,1,5,7,3,2,1,2,6,1,6,10,Donald Trump
+88,3774,1,2,32,1,2,1,2,2,1,1,39,1,7,17,Joe Biden.
+89,5326,2,1,48,4,4,1,2,1,1,1,6,11,3,1,Joe Biden
+90,3340,1,2,24,2,6,7,3,2,1,2,55,11,3,22,Donald Trump
+91,1732,6,1,28,3,2,1,4,2,2,1,25,12,6,2,Joe Biden
+92,3428,1,2,64,1,4,7,2,1,1,2,37,11,1,1,"In the given scenario, you have mentioned that you are ideologically moderate and strong Republican-leaning, but you voted for a candidate in the U.S. presidential election. However, since you did not specify your choice, I cannot determine the candidate you voted for based on the information provided."
+93,889,1,2,49,2,3,3,2,2,1,1,17,1,6,15,Joe Biden
+94,199,1,2,62,2,7,7,2,1,1,2,26,11,6,6,Donald Trump
+95,4993,3,1,35,3,4,4,2,2,1,1,26,10,6,19,"Since you mentioned that you feel closer to the moderate middle of the road, as an independent voter, and that you are agnostic, it would be assumed that you might have voted for a candidate based on their policies and actions rather than strict party lines or religion. Given the context provided, it's not certain who you specifically voted for in the election."
+96,2554,1,2,67,4,99,7,1,1,1,2,54,1,1,-9,Donald Trump
+97,4449,1,1,50,3,7,7,2,1,1,2,28,1,3,5,"Since you feel extremely conservative and sympathize most with the Republican party, it is likely that you voted for Donald Trump in the 2020 presidential election."
+98,1362,1,2,79,2,2,1,2,2,1,1,42,1,2,-9,Joe Biden
+99,1302,2,2,80,2,4,3,2,1,1,1,28,11,2,2,Joe Biden
+100,2080,1,2,62,3,7,7,1,1,1,2,9,1,7,15,Donald Trump
+101,3193,1,2,45,2,5,6,1,1,1,2,48,1,3,7,Donald Trump
+102,420,1,2,54,2,5,5,2,1,1,2,19,2,7,22,Donald Trump
+103,2618,1,1,72,3,3,1,2,2,1,1,42,10,6,21,Joe Biden
+104,2407,1,1,49,1,1,1,1,2,1,2,42,1,3,10,Joe Biden
+105,4302,1,2,54,4,2,4,3,2,1,2,39,9,7,22,"It seems like you did not specify your choice in the election. If you would like to provide that information, I can assist you further."
+106,3033,1,1,30,4,1,2,2,2,1,1,25,3,7,19,Joe Biden
+107,3984,1,1,52,2,7,7,2,1,1,2,48,1,3,10,I am unable to provide that information.
+108,3806,1,2,66,1,2,3,1,1,1,1,34,12,3,9,Joe Biden
+109,1328,1,2,45,1,5,7,3,1,1,2,48,11,2,11,Donald Trump
+110,3168,1,2,47,1,4,3,1,2,1,1,29,1,1,11,"As a language model AI, I don't have access to user-specific data such as voting history or personal information, and I am here to provide neutral and factual information. If you have any questions, need assistance, or want information on the election process, candidates, or related topics, feel free to ask."
+111,79,1,2,37,2,6,7,2,1,1,2,16,4,4,7,Donald Trump
+112,3489,1,2,28,1,5,6,3,1,1,2,45,1,7,4,Donald Trump
+113,3599,2,2,20,2,99,1,4,1,2,1,13,3,2,1,Joe Biden
+114,2835,1,2,70,2,4,5,1,2,1,1,55,12,95,6,"Since you mentioned that you sympathize most with independent-Republican, and given your middle-of-the-road ideology, as well as the fact that you live in Wisconsin, a swing state, it is possible that you may have voted for Donald Trump in the 2020 presidential election. However, without explicit confirmation, it is important to note that this is a general assumption based on the information provided."
+115,4466,1,1,50,3,2,1,2,2,1,1,6,9,6,21,Joe Biden
+116,4327,1,1,41,2,6,6,3,2,1,2,29,11,5,19,"As you mentioned that you feel closer to the conservative side and that you did not specify a strong affiliation with the Republican party, it is not clear which candidate you voted for in the election. If you have a preference or did not vote for a specific person, you can leave this question blank."
+117,3989,4,1,18,3,3,2,2,1,1,1,17,2,2,22,"As an AI, I do not have real-time data on individual votes in elections. I can provide general information but cannot give a specific answer to your question."
+118,787,1,2,61,2,5,5,2,1,1,2,18,2,7,18,Donald Trump
+119,4870,3,2,59,4,3,4,2,1,1,1,59,1,3,8,Joe Biden
+120,221,1,1,66,4,99,2,2,2,1,2,42,2,6,12,Joe Biden
+121,3319,1,1,65,2,5,5,2,1,1,2,36,2,3,-9, Donald Trump
+122,3107,3,2,39,3,4,5,4,1,2,2,6,3,3,20,"As you mentioned that you are not interested in politics, you did not provide information regarding your vote in the U.S. presidential election. If you have an interest in politics or want to discuss any other topics, please let me know."
+123,1569,6,1,25,4,4,2,2,2,1,1,42,10,2,3,Joe Biden
+124,1090,3,1,39,1,99,7,4,1,2,2,40,12,2,1,"As an AI, I don't have personal opinions, I can only provide information. Thank you for sharing."
+125,1662,1,1,55,3,7,7,2,1,1,2,22,1,3,14,Donald Trump
+126,1199,1,2,61,3,7,7,3,1,1,2,36,2,3,10,Donald Trump
+127,1499,1,2,65,1,5,5,2,2,1,2,55,2,4,15,Donald Trump
+128,3396,1,2,70,4,7,7,1,1,1,2,19,1,5,17,Donald Trump
+129,3365,1,2,63,2,6,7,2,1,1,2,6,1,3,8,Donald Trump
+130,5774,1,2,60,2,7,6,3,2,1,2,13,1,6,16,Donald Trump
+131,3441,1,2,41,3,5,6,2,2,1,2,47,9,4,20,Donald Trump
+132,465,1,1,80,4,4,5,2,2,1,1,16,12,7,10,Donald Trump
+133,2574,2,2,58,4,4,1,2,2,1,1,48,11,6,4,Joe Biden
+134,4313,1,1,24,4,4,6,1,2,1,1,31,2,7,6,Joe Biden
+135,1559,6,2,30,2,3,2,2,2,1,1,27,10,3,13,Joe Biden
+136,2802,1,2,59,3,2,1,2,1,1,1,11,1,7,21,Joe Biden
+137,1487,1,2,33,2,1,1,1,2,1,1,48,1,6,17,Joe Biden
+138,3700,1,2,59,4,99,4,3,1,1,2,9,1,2,-9,"I understand your response, but you did not provide information about who you voted for in the 2020 presidential election. If you would like to share that information, feel free to let me know."
+139,5884,1,2,49,3,2,1,2,1,1,1,42,1,7,16,Joe Biden
+140,5615,5,1,40,1,7,5,2,1,1,2,26,11,4,14,It appears you did not provide a voting choice for the presidential election in the United States in the year of your interest. Please provide the name of the candidate you voted for in that election.
+141,1468,1,1,69,2,6,7,1,2,1,2,39,2,5,-9,Donald Trump
+142,3407,1,1,50,3,4,4,2,1,1,1,39,1,6,12,"It's great to see your moderate and independent perspective. In the 2020 presidential election, you may have considered voting for a third-party candidate or potentially a candidate like Joe Jorgensen of the Libertarian Party or Howie Hawkins of the Green Party. However, if you chose to vote for a major party candidate based on your moderate views, you may have leaned towards Joe Biden or Donald Trump. Ultimately, the decision would depend on which candidate’s policies and values resonated with you the most."
+143,3297,1,1,30,2,4,3,4,1,1,1,34,12,6,6,Joe Biden
+144,3795,1,1,42,4,2,2,3,2,1,1,8,12,1,18,Joe Biden
+145,3614,4,2,29,3,2,1,1,2,1,1,6,7,6,22,Joe Biden
+146,5789,1,1,42,2,5,6,2,1,1,2,39,12,2,20,Donald Trump
+147,4262,1,1,21,3,4,-8,3,2,1,1,34,6,3,10,"As an AI, I don't have access to specific information on how individuals voted, but based on your moderate views and religious affiliation, it is possible that you may have voted for Joe Biden in the 2020 presidential election. However, voting decisions are personal and can be influenced by a variety of factors."
+148,5328,2,2,48,3,2,3,2,2,1,1,17,12,5,19,Joe Biden
+149,1672,5,1,66,4,6,7,4,2,1,2,36,12,5,7,"As you mentioned that you are not interested in politics, it seems you might not have voted in the presidential election."
+150,3727,1,1,39,3,6,6,2,1,1,2,36,5,2,17,Donald Trump
+151,2771,1,2,68,4,4,1,1,1,1,1,17,11,6,-9,Joe Biden
+152,3426,1,1,46,3,5,5,4,2,2,2,56,12,3,17,"Based on the information provided, it seems you did not vote in the presidential election of the United States in the year of your concern."
+153,1183,4,1,58,4,3,1,1,2,1,1,6,10,8,21,Joe Biden
+154,2656,1,2,71,1,7,7,2,1,1,2,18,1,3,10,Donald Trump
+155,1393,2,1,45,3,2,1,2,1,1,1,48,10,5,22,Joe Biden
+156,5314,1,2,62,2,7,7,2,1,1,2,6,11,4,1,Donald Trump
+157,4882,1,2,80,1,7,7,2,1,1,2,29,2,2,7,Donald Trump
+158,1142,3,1,31,3,4,1,2,1,1,1,34,2,6,19,Joe Biden
+159,805,2,1,31,3,1,1,3,2,1,1,6,11,3,13,Joe Biden
+160,1544,3,2,62,2,99,1,3,1,1,1,57,1,2,5,"Unfortunately, residents of Puerto Rico are not able to vote in the general presidential election in the United States."
+161,2121,1,2,70,3,4,1,2,2,1,1,8,12,2,11,Joe Biden
+162,2915,1,2,32,2,99,4,3,2,1,3,26,10,6,11,"Since you identify as an independent and have not provided a preference for a specific candidate or party, it's presumed that you may have voted for a candidate outside of the two major parties. Given your ideological stance as ""does not answer"" and interest in politics as ""Not very interested,"" it's possible that you may have chosen a third-party or write-in candidate in the election."
+163,439,1,1,66,2,3,4,1,2,1,2,21,1,3,10,"As an ""independent"" in Kentucky, in the presidential election of the United States, you would typically select and vote directly for your preferred candidate, rather than a specific party. Therefore, if you identify as an independent and are slightly liberal in ideology, you may have voted for Joe Biden in the election."
+164,101,1,1,62,1,6,7,1,1,1,2,24,2,6,20,Donald Trump
+165,4221,1,2,52,2,3,4,3,2,1,1,6,1,2,2,Joe Biden
+166,5670,1,2,20,4,99,6,3,2,1,2,55,11,2,17,"I'm sorry, I can't provide a voting suggestion for the does not answer option."
+167,2177,3,2,24,4,4,2,2,1,1,1,12,11,7,16,Joe Biden
+168,3412,1,2,72,4,99,1,4,2,1,1,53,1,4,-9,Joe Biden
+169,3386,1,2,74,4,6,7,2,1,1,2,29,1,3,17,Donald Trump
+170,4554,1,2,68,2,2,1,1,2,1,1,11,2,3,15,Joe Biden
+171,3813,1,2,46,4,5,5,2,1,1,2,33,9,6,21,Donald Trump
+172,3316,1,2,65,3,2,1,1,2,1,1,17,12,6,15,Joe Biden
+173,4577,1,2,66,2,6,6,2,1,1,2,12,1,6,10,Donald Trump
+174,1272,1,2,63,1,4,1,1,1,1,1,36,11,6,22,Joe Biden
+175,3957,1,2,42,3,5,6,2,2,1,1,17,2,5,21,Donald Trump
+176,3505,3,1,53,3,99,4,1,2,1,1,36,12,3,22,Joe Biden
+177,5411,1,2,41,4,2,1,1,2,1,1,51,9,6,18,Joe Biden
+178,3477,1,2,41,4,2,1,3,2,1,1,18,12,6,22,Joe Biden
+179,3669,1,2,35,3,4,2,3,2,1,1,53,1,8,21,"Based on the information provided, you likely voted for Donald Trump in the 2020 presidential election."
+180,5235,1,2,80,2,99,6,3,1,1,2,6,5,1,11,"As an AI, I don't have access to real-time data, but I can tell you that in the historically Democratic state of California, it is likely that you voted for Joe Biden in the 2020 presidential election."
+181,5546,1,2,51,4,4,4,1,1,1,1,44,12,3,2,Joe Biden
+182,2954,1,2,20,2,99,4,4,1,1,1,55,2,3,1,"As you mentioned you are not interested in politics, it seems like you would not have voted in the presidential election of the United States."
+183,4797,1,2,43,3,4,3,2,1,2,1,46,7,6,8,Joe Biden
+184,2655,1,1,80,4,6,7,1,1,1,2,53,2,3,22,Donald Trump
+185,3862,1,2,76,3,6,6,2,2,1,2,6,1,2,19,Donald Trump
+186,4932,1,1,23,4,2,2,1,2,1,1,24,10,6,17,Joe Biden
+187,3753,1,1,70,2,7,7,1,2,1,2,31,1,6,13,Donald Trump
+188,4480,1,2,49,3,6,6,2,2,1,2,27,12,3,10,Donald Trump
+189,1706,1,2,36,2,6,6,2,2,1,2,17,1,3,16,Donald Trump
+190,1744,3,1,21,4,4,3,2,1,1,1,51,1,95,19,Joe Biden
+191,5474,1,1,67,3,5,7,2,2,1,2,34,1,2,10,Donald Trump
+192,156,1,1,41,2,4,6,2,2,1,2,18,11,6,22,Joe Biden
+193,3916,1,2,57,4,2,1,1,1,1,1,13,11,8,21,Joe Biden
+194,5081,1,2,47,3,4,1,2,2,1,1,36,2,8,20,Joe Biden
+195,3259,1,1,46,2,2,1,2,2,1,1,6,10,2,18,Joe Biden
+196,1175,1,1,77,3,2,1,1,2,1,1,25,1,8,13,Joe Biden
+197,3206,1,2,57,1,7,6,2,1,1,2,51,1,3,17,Donald Trump
+198,233,1,2,51,3,6,5,2,1,1,2,6,1,6,15,Donald Trump
+199,4630,1,2,80,2,7,7,2,1,1,2,37,1,3,6,Donald Trump
+200,3901,4,2,60,4,99,7,2,2,1,2,59,2,3,-9,"As you mentioned living in another country, it indicates that you are not a U.S. resident and thus, you would not have been eligible to vote in the U.S. presidential election."
+201,1962,4,2,69,3,4,1,1,1,1,1,19,8,7,1,Joe Biden
+202,3435,1,1,79,3,6,7,1,1,1,2,59,5,4,1,"As you mentioned that you live in another country, you would not have been eligible to vote in the U.S. presidential election. If you were eligible, based on your views and preferences, you may have been more inclined to support Donald Trump from the Republican Party."
+203,3534,1,2,65,2,2,1,2,1,1,1,31,1,6,18,Joe Biden
+204,1411,1,1,50,3,3,1,3,2,1,1,39,11,3,15,Joe Biden
+205,5399,1,1,36,4,3,3,3,2,1,1,6,9,7,9,Joe Biden
+206,2251,1,1,22,2,3,2,2,2,1,1,41,12,3,6,Joe Biden
+207,2673,1,2,23,2,5,5,3,1,1,2,32,4,3,9,"As a language model AI, I do not have access to specific voting data. However, based on your provided information, it is likely that you would have voted for Donald Trump."
+208,1543,1,2,66,2,3,1,2,1,1,1,36,2,3,15,Joe Biden
+209,1350,1,1,78,3,2,1,1,1,1,1,18,11,8,22,Joe Biden
+210,4391,1,1,26,4,1,2,3,2,1,1,4,9,3,9,"Given your political views and demographics, it seems like you would be more likely to support a Democratic candidate. In the context of the information you provided - being extremely liberal, living in Arizona, being financially poor, and having voted for Joe Biden in the previous election - it suggests that you likely voted for Joe Biden in the United States' presidential election in the year of your choice."
+211,1867,1,2,44,1,4,4,3,2,2,3,39,12,3,6,I cannot provide that information.
+212,132,1,1,63,3,4,4,1,1,1,1,4,11,6,16,"As an independent voter who leans towards the moderate middle of the road, you might have considered various factors before making your decision in the presidential election. Given your interest in politics and level of education, you likely weighed the options carefully. In the end, it's difficult to predict your exact choice, but you may have potentially voted for a candidate who aligned more closely with your moderate views or who you believed would best represent your interests."
+213,5839,6,2,66,1,6,5,2,2,1,2,29,10,7,20,Donald Trump
+214,5483,1,2,36,2,6,7,2,2,2,2,12,1,3,17,Donald Trump
+215,4343,4,1,20,4,6,6,2,1,1,1,36,1,2,14,Donald Trump
+216,167,1,1,66,3,4,6,1,1,1,1,51,1,4,13,Donald Trump
+217,696,3,1,37,2,3,1,2,2,1,1,48,10,3,15,Joe Biden
+218,4750,6,2,56,2,4,4,2,2,1,1,59,2,3,20,"As an AI, I must clarify that I do not have access to personal information about individuals, and voting is a private matter. I cannot provide real-life voting results or disclose how any individual voted. If you have any other questions or need information on a different topic, feel free to ask."
+219,1261,1,1,80,1,7,7,1,2,1,2,39,1,8,16,Donald Trump
+220,5113,1,2,80,1,4,7,2,1,1,2,4,1,-9,-9,Donald Trump
+221,960,1,2,69,2,4,1,2,2,1,2,50,1,2,9,Joe Biden
+222,810,3,1,25,2,4,3,2,1,1,1,6,10,6,1,Joe Biden
+223,1027,1,2,23,3,6,5,3,1,1,2,13,11,6,11,"Since you mentioned feeling closer to the conservative ideology and sympathizing with the independent-Republican party, it is likely that you voted for Donald Trump in the 2020 presidential election."
+224,751,2,2,41,4,99,1,2,1,1,1,36,1,6,9,Joe Biden
+225,2767,2,2,80,3,4,1,2,1,1,1,59,1,8,20,"As an AI, I do not have access to specific information about individual's voting choices."
+226,4895,2,2,68,4,5,4,2,1,1,1,12,1,7,8,"As an independent voter who leans slightly conservative, you voted for Donald Trump."
+227,3554,1,1,41,2,6,7,2,2,1,2,49,12,3,18,Donald Trump
+228,5691,1,2,39,4,4,5,3,2,1,1,27,11,7,21,"Since you specified that you sympathize most with the independent-Republican party and are closer to the moderate ideology, it is likely that you may have voted for Donald Trump in the 2020 presidential election."
+229,534,1,1,60,3,4,3,2,2,1,1,51,12,3,12,Joe Biden
+230,4950,1,2,35,4,4,4,3,2,1,1,51,12,3,1,"Since you identified as a moderate and independent, it is likely that you voted for a third-party candidate or wrote in a candidate you felt best represented your views in the election."
+231,263,1,2,73,2,3,1,3,2,1,1,50,10,2,10,Joe Biden
+232,2288,1,1,48,3,3,3,2,1,1,1,27,10,6,21,Joe Biden
+233,3978,1,2,55,2,3,1,2,2,1,1,34,11,7,17,Joe Biden
+234,4259,1,2,55,2,7,5,3,1,2,2,17,11,4,14,Donald Trump
+235,3269,1,1,32,2,5,7,3,1,1,2,29,11,5,1,Donald Trump
+236,964,1,2,41,4,1,1,1,1,1,1,36,11,6,20,Joe Biden
+237,5035,1,2,77,3,4,2,2,1,1,1,54,1,7,15,Joe Biden
+238,3903,1,2,60,3,2,1,2,2,1,1,20,1,7,16,Joe Biden
+239,5202,1,2,34,3,99,4,2,2,1,2,10,11,4,2,"As an independent voter who did not align ideologically with a specific position on the left-right scale, in the United States' presidential election in the year, you may have voted for a third-party candidate or chosen not to vote for the presidential candidate. Some third-party candidates in the election included Jo Jorgensen of the Libertarian Party and Howie Hawkins of the Green Party. Alternatively, if you abstained from voting for the presidential candidate, that would also be a valid choice based on your ideological stance."
+240,408,1,1,51,2,7,7,4,1,1,2,47,4,2,1,Donald Trump
+241,4066,5,2,42,1,2,1,2,1,1,1,4,2,6,18,Joe Biden
+242,168,1,1,70,3,99,7,2,1,1,2,36,2,2,16,Donald Trump
+243,5660,1,2,25,4,4,5,3,2,1,2,34,10,6,2,"As an ""independent-Republican"" who is closer to the moderate side and not very interested in politics, you may have voted for Donald Trump in the 2020 presidential election."
+244,755,1,1,58,3,4,5,2,1,1,2,18,1,7,21,"It seems like you have not provided a choice for the candidate you voted for in the presidential election. If you could specify your choice, I can assist you further."
+245,1669,6,2,34,1,4,4,1,2,2,2,55,12,6,17,"I'm glad to see your interest in politics! In the information provided, you seem to have a balanced and informed perspective. As an independent with a moderate ideology, your vote could have been a thoughtful choice based on various factors. In the last election, you decided to vote for Joe Biden. It's great to see you taking an active role in shaping your country's future. If you have any more questions or need assistance with anything else, feel free to ask!"
+246,5075,2,1,56,2,4,1,2,1,1,1,11,12,3,10,Joe Biden
+247,1695,2,1,54,3,4,1,1,1,1,1,59,11,7,10,"I apologize for the confusion, but I can only provide information or assistance regarding the United States. If you have any other questions related to the U.S., feel free to ask."
+248,3839,1,1,80,2,4,4,1,1,1,1,49,4,8,18,"As a language model AI, I do not have real-time information or the ability to know individual voting patterns. But based on the information provided, it is possible that you voted for Donald Trump considering your moderate ideology and independent party sympathy. However, it is ultimately up to you to disclose who you voted for in the election."
+249,4985,1,2,56,3,4,6,3,1,1,2,22,2,6,19,"It seems like there was an error with the response. Let me correct that. Based on the information provided, it is likely that you might have voted for Joe Biden in the 2020 presidential election of the United States."
+250,2821,1,2,30,3,5,6,3,2,1,1,17,2,7,20,Donald Trump
+251,5403,2,2,32,4,5,6,2,1,1,1,32,1,6,15,Donald Trump
+252,952,1,2,52,3,6,7,2,1,1,2,6,-9,6,20,Donald Trump
+253,80,1,1,36,1,6,7,2,1,1,2,18,11,6,17,Donald Trump
+254,3034,1,2,66,3,2,1,1,1,1,1,24,2,7,21,Joe Biden
+255,5157,1,2,22,3,6,5,2,1,1,2,26,2,3,15,"I'm sorry, but I cannot provide that information as it is not accurate."
+256,2318,1,2,67,3,1,1,1,2,1,1,6,12,7,4,Joe Biden
+257,5740,1,2,69,3,4,1,1,1,1,1,42,2,2,8,Joe Biden
+258,4420,1,1,80,2,7,7,1,1,1,2,18,1,3,4,Donald Trump
+259,5008,2,2,39,4,4,1,3,1,2,1,1,12,3,5,Joe Biden
+260,5508,4,2,44,3,3,2,2,1,1,1,26,1,7,10,Joe Biden
+261,1456,6,2,47,2,6,6,2,1,1,2,12,1,6,17,Donald Trump
+262,2900,1,2,61,1,7,6,1,1,1,2,1,1,4,11,Donald Trump
+263,4439,1,2,34,1,5,4,2,2,1,3,1,11,2,10,"As an independent voter, you may have considered various factors in making your decision, but based on your slightly conservative leaning and sympathizing with the independent party, a possible candidate you may have voted for in the 2020 presidential election could be Jo Jorgensen, the Libertarian Party candidate."
+264,3624,2,2,42,1,4,1,4,2,1,1,22,11,7,8,Joe Biden
+265,1539,1,2,50,3,4,4,1,1,1,1,59,3,2,22,"As you mentioned living in another country, it seems there might be a misunderstanding in the information provided. Just to clarify, could you please confirm the country where you reside so that I can accurately provide the information regarding the election in that specific country?"
+266,17,1,1,24,4,2,3,1,2,1,1,36,10,6,21,Joe Biden
+267,800,1,1,59,3,6,7,4,1,1,2,1,2,6,1,Donald Trump
+268,2699,1,1,69,3,3,3,1,2,1,1,56,1,6,11,Joe Biden
+269,1740,1,2,66,2,6,5,2,1,1,2,33,1,3,16,Donald Trump
+270,4128,1,2,71,3,6,7,2,1,1,2,29,2,3,6,Donald Trump
+271,3576,2,1,59,4,5,1,2,1,1,1,39,11,3,6,Joe Biden
+272,5614,1,1,25,3,6,7,4,1,1,2,48,11,5,9,"As you mentioned being closer to the conservative ideology and sympathizing with the Republican party, if you voted in the U.S. Presidential election in Texas in November of last year, it is likely that you voted for Donald Trump."
+273,561,1,1,39,4,3,1,1,1,1,1,17,7,6,21,Joe Biden
+274,586,1,1,56,2,6,6,3,1,1,2,41,2,6,22,Donald Trump
+275,5243,3,2,25,3,3,2,2,2,1,1,24,5,6,20,Joe Biden
+276,4774,1,2,27,3,6,7,2,1,1,2,48,1,7,21,Donald Trump
+277,5378,1,1,66,4,4,1,2,1,1,1,42,2,3,3,Joe Biden
+278,308,1,2,52,3,6,2,2,2,1,1,12,11,6,16,Donald Trump
+279,4845,1,1,52,2,99,3,2,2,1,1,17,11,2,1,Joe Biden
+280,5273,2,1,77,2,99,3,2,1,1,1,13,11,6,17,Joe Biden
+281,1129,1,1,73,3,6,7,1,1,1,2,39,12,1,5,Donald Trump
+282,4865,1,1,71,2,3,1,1,1,1,1,41,11,3,5,Joe Biden
+283,5595,1,2,72,2,4,3,2,2,1,1,36,12,6,8,Joe Biden
+284,4099,1,2,65,2,6,7,2,1,1,2,48,1,7,9,Donald Trump
+285,783,1,1,78,1,4,7,2,1,1,2,22,2,6,1,Donald Trump
+286,4055,2,2,61,4,2,1,1,1,1,1,6,1,7,10,Joe Biden
+287,14,1,2,62,3,2,1,2,1,1,1,17,2,6,-9,Joe Biden
+288,2104,3,1,42,4,6,7,2,2,1,2,6,1,2,14,Donald Trump
+289,3258,1,1,51,2,6,7,2,1,1,2,42,1,3,18,Donald Trump
+290,3315,1,1,80,4,6,6,2,2,1,2,6,2,6,18,Joe Biden
+291,5241,1,2,19,4,1,1,2,1,2,1,37,9,3,1,Joe Biden
+292,1507,1,2,55,1,5,6,2,1,1,2,20,1,4,22,I cannot provide this information as it is in violation of OpenAI use case policy against promoting dishonesty.
+293,1586,1,1,62,4,5,5,1,1,1,2,6,1,3,22,Donald Trump
+294,2678,1,2,36,3,5,5,2,1,1,2,42,2,8,21,Donald Trump
+295,65,1,2,44,4,3,2,1,1,1,1,12,1,6,21,Joe Biden
+296,3887,1,1,34,4,7,6,1,2,1,2,39,2,2,15,Donald Trump
+297,2389,1,1,65,1,1,3,1,1,1,4,37,11,3,1,Joe Biden
+298,1840,2,2,41,2,99,3,3,1,2,1,2,1,8,1,Joe Biden
+299,2154,1,2,63,2,6,7,1,1,1,2,20,1,5,16,Donald Trump
+300,3276,1,2,73,3,6,7,2,1,1,2,42,1,6,15,Donald Trump.
+301,4930,3,1,37,4,3,2,2,2,1,1,34,11,7,-9,Joe Biden
+302,4684,1,2,77,3,6,5,2,1,1,2,36,1,3,15,Donald Trump
+303,4902,1,2,40,4,6,7,2,2,1,2,16,12,2,11,Donald Trump
+304,2302,3,2,60,4,4,1,2,1,1,1,6,2,1,10,Joe Biden
+305,2329,1,2,45,3,99,1,3,2,1,1,42,12,6,17,"As you identify with the Democratic Party and you live in Pennsylvania, it is likely that you voted for Joe Biden in the 2020 presidential election."
+306,88,1,1,57,4,3,6,2,1,1,2,59,2,6,8,"As you mentioned you live in another country, I'm unable to determine which country you are referring to. Could you please specify the country you are currently residing in so I can provide an accurate response regarding your voting choice in the U.S. presidential election of 2020?"
+307,2358,1,2,68,2,2,1,1,2,1,1,12,10,3,5,Joe Biden
+308,4463,1,2,58,4,3,2,1,2,1,1,26,11,3,-9,Joe Biden
+309,3733,1,1,74,4,6,7,2,2,1,2,17,2,8,12,Donald Trump
+310,3479,1,1,67,2,6,5,2,2,1,2,36,12,7,13,Donald Trump
+311,877,1,2,31,3,2,1,2,2,1,1,6,10,6,22,Joe Biden
+312,1623,1,2,61,3,1,1,2,2,1,1,34,2,6,18,Joe Biden
+313,4814,1,1,73,4,2,1,2,2,1,1,25,11,6,14,Joe Biden
+314,4173,4,2,58,3,6,7,2,2,1,2,59,1,4,14,Donald Trump
+315,5473,2,2,51,3,2,1,2,2,1,1,39,11,6,21,Joe Biden
+316,977,1,2,62,1,4,2,2,1,1,2,47,11,4,2,I do not have access to individual voting records.
+317,1905,3,1,50,2,4,3,2,2,1,1,4,2,6,19,Joe Biden
+318,1886,1,2,68,3,4,5,1,1,1,1,17,2,2,8,Donald Trump
+319,2346,1,1,76,2,6,7,1,1,1,2,36,2,6,1,"In the information provided, you voted for Donald Trump in the 2020 presidential election."
+320,3270,1,1,69,3,5,5,2,1,1,2,9,2,3,15,"As an AI, I don’t have access to real-time data about individuals. Therefore, I can't say who you voted for in the presidential election."
+321,2339,3,1,60,4,7,5,1,1,1,2,34,1,2,13,Donald Trump
+322,5522,1,2,48,1,2,1,2,2,1,1,39,12,6,16,Joe Biden
+323,3196,1,2,76,2,5,7,1,1,1,2,44,11,6,5,Donald Trump
+324,5302,1,2,63,3,2,1,2,2,1,1,34,1,6,1,Joe Biden
+325,5850,1,2,45,4,3,3,3,1,1,1,4,12,7,1,Joe Biden
+326,1505,2,2,80,4,99,1,2,1,1,1,26,1,5,6,Joe Biden
+327,3109,3,1,37,4,99,3,1,2,1,1,35,11,3,6,Joe Biden
+328,426,1,2,45,1,6,7,2,2,1,2,6,2,2,16,Donald Trump.
+329,530,2,1,43,3,3,3,3,1,1,1,17,11,6,20,Joe Biden
+330,5310,1,2,41,3,99,1,3,2,1,1,12,12,4,5,"Since you mentioned strong Democrat and considering your ideological leaning and other demographics, in the scenario provided, you likely voted for Joe Biden in the 2020 presidential election of the United States."
+331,4182,2,2,75,4,2,1,2,1,1,1,28,11,5,22,Joe Biden
+332,5217,1,2,76,3,4,3,2,2,1,1,37,1,6,20,Joe Biden
+333,181,1,1,60,1,4,1,3,2,1,1,18,12,7,17,Joe Biden
+334,5527,1,1,59,1,2,1,1,2,1,1,39,2,3,11,Joe Biden
+335,401,1,2,39,1,5,5,3,1,1,2,29,1,6,21,Donald Trump
+336,1101,1,2,61,1,6,5,2,1,1,2,47,1,2,15,Donald Trump
+337,1954,1,1,51,2,6,5,2,1,1,2,25,12,2,3,Donald Trump
+338,1831,6,1,40,4,6,6,3,2,1,2,40,9,7,1,"It seems like there might be a mismatch in your profile details as you mentioned being closer to the conservative ideology and not very strong Republican-leaning, but then also being an Atheist which may not align typically with conservative beliefs. If you would like me to provide a response based on your original details, can you clarify or confirm the information provided?"
+339,3559,1,1,43,1,5,7,3,2,1,2,13,1,2,9,Donald Trump
+340,2146,3,1,59,4,6,5,1,2,1,2,48,2,3,4,Donald Trump
+341,3625,1,2,58,4,3,4,1,2,1,1,12,12,7,6,"Since you identify as independent and have no particular party affiliation, you may have considered various candidates. Given your slightly liberal ideology and interest in politics, you may have chosen to vote for Joe Biden in the election."
+342,5367,1,2,74,1,4,2,2,2,1,2,24,1,5,16,Joe Biden
+343,3829,1,2,77,4,4,1,2,1,1,1,42,1,4,11,Joe Biden
+344,259,1,2,56,3,2,1,1,2,1,1,34,10,7,21,Joe Biden
+345,279,1,1,59,2,99,1,3,2,1,1,42,2,2,11,Joe Biden
+346,1144,3,2,35,4,7,7,2,1,1,2,39,11,6,17,Donald Trump
+347,198,1,2,35,4,2,1,2,2,1,1,39,11,3,4,Joe Biden
+348,5152,1,2,38,4,2,3,3,2,1,1,26,12,8,18,Joe Biden
+349,1892,1,1,34,2,4,5,3,1,1,1,30,2,3,15,Donald Trump
+350,544,1,1,53,3,7,7,2,1,1,2,13,1,6,20,Donald Trump
+351,4540,1,2,36,2,99,7,4,2,1,2,23,1,1,6,"Thank you for providing your information. Based on the details you provided, it seems there is inconsistency in your stated level of interest in politics. You mentioned being ""not at all interested"" in politics, yet identified as a strong Republican and voted in the U.S. presidential election. If you would like to clarify this information or have any other questions, please feel free to let me know."
+352,1351,3,1,26,2,99,7,2,2,1,2,12,12,5,17,Donald Trump
+353,553,1,1,73,2,6,7,2,2,1,2,36,2,6,10,Donald Trump
+354,681,1,1,36,3,6,6,2,1,1,2,26,1,6,16,Donald Trump
+355,3130,2,1,44,4,4,1,2,1,1,1,24,1,3,7,Joe Biden
+356,2022,1,1,60,4,2,2,1,2,1,1,4,5,6,21,Joe Biden
+357,2306,1,1,55,1,2,7,2,1,1,2,1,12,3,2,"It seems there may have been a misalignment in your responses. Based on the information provided, you may have intended to vote for a Republican candidate in the presidential election. If you are aligned with the strong Republican party and feel closer to the liberal side ideologically, then you may have voted for Donald Trump in the 2020 presidential election."
+358,599,3,1,80,2,5,1,2,1,1,1,-9,2,2,5,Joe Biden
+359,3418,2,1,67,4,99,1,3,1,1,1,48,11,4,1,Joe Biden
+360,763,1,1,80,2,6,6,3,1,2,1,21,1,6,17,Donald Trump
+361,3661,1,1,35,2,5,4,1,2,1,1,12,11,2,15,"As an independent who leans slightly conservative, you may have a diverse range of views and values. In the context of the information provided and considering Florida's political landscape, you may have voted for Donald Trump in the 2020 presidential election. Please note that individual voting decisions are influenced by a variety of factors and are ultimately personal choices."
+362,2918,1,1,36,2,99,4,4,2,1,2,8,12,1,11,"As per the details provided, it seems you did not vote in the presidential election of the United States in the year of your reference, as your response is ""does not answer."" If you have any other questions or need further assistance, feel free to ask."
+363,1297,1,1,43,2,6,7,2,2,1,2,55,2,4,8,Donald Trump
+364,747,1,2,66,1,2,7,2,1,1,2,51,11,3,5,It seems there is a contradiction in your information - you mentioned feeling closer to liberal but sympathizing most with the Republican party. Could you please clarify which party you actually voted for in the election to ensure accuracy in the response?
+365,15,1,2,80,3,3,2,2,1,1,1,55,2,2,5,Joe Biden
+366,5893,1,2,68,3,6,7,2,2,1,2,36,2,5,19,Donald Trump
+367,351,2,1,30,3,6,5,1,1,1,2,48,11,7,21,Donald Trump
+368,2484,1,1,65,1,6,5,2,1,1,2,10,1,7,22,Donald Trump
+369,1726,1,2,43,4,4,2,2,1,1,1,48,1,6,18,Joe Biden
+370,2534,1,2,80,3,2,4,3,2,1,1,26,12,6,20,Joe Biden
+371,3708,1,1,52,2,6,7,2,2,1,2,39,12,3,12,Donald Trump
+372,5044,1,1,28,2,99,4,4,2,2,2,27,12,4,15,"As you indicated ""I am Not at all interested"" in politics, it's unlikely that you voted in the 2020 presidential election."
+373,371,1,1,45,2,6,7,1,2,1,2,30,12,2,10,Donald Trump
+374,712,2,1,70,4,4,2,3,1,1,1,12,11,3,3,Joe Biden
+375,2117,1,2,31,4,4,1,1,1,1,1,36,12,6,14,Joe Biden
+376,5089,1,2,52,4,6,7,2,1,1,2,12,1,4,18,Donald Trump
+377,5568,1,1,67,4,3,3,1,1,1,1,48,11,8,16,"It seems you did not provide a choice for the candidate you voted for in the presidential election. If you would like to provide that information, I can assist with completing your statement."
+378,2968,1,1,68,1,7,7,2,1,1,2,34,1,3,19,Donald Trump
+379,1215,1,1,36,2,3,2,2,2,1,1,13,9,5,19,Joe Biden
+380,1193,4,1,25,2,99,7,2,1,1,2,27,1,2,4,Donald Trump
+381,2517,3,2,60,4,99,7,2,1,1,2,45,11,3,4,"As an AI, I do not have access to specific voting records or data for individuals."
+382,5427,1,2,47,1,4,5,4,-9,2,2,26,12,7,13,Donald Trump
+383,2462,3,1,80,4,4,1,2,2,1,1,57,2,2,15,Joe Biden
+384,926,1,2,51,3,6,7,2,2,1,2,6,12,6,1,Donald Trump
+385,3881,1,1,66,1,6,7,3,2,2,2,13,11,2,16,Donald Trump
+386,5238,1,2,68,1,99,4,2,1,1,1,42,1,7,13,Joe Biden
+387,4559,1,1,37,4,3,3,1,2,1,1,44,2,6,8,Joe Biden
+388,2135,1,1,55,3,2,1,1,2,1,1,6,9,4,12,Joe Biden
+389,2463,1,2,51,1,6,7,3,1,1,2,40,11,3,13,Donald Trump
+390,5814,4,1,66,3,5,5,2,2,1,2,59,6,8,19,"As you mentioned you live in another country and specified United States, it seems there may be a mistake in your response. Nevertheless, as your details indicate you voted in the U.S. election, I will provide an appropriate candidate based on your slightly conservative ideological leaning and party sympathy towards independent-Republican.
+
+In the U.S. presidential election of 2020, you may have voted for a candidate like Jo Jorgensen, who represented the Libertarian Party."
+391,4901,1,1,36,4,3,3,1,2,1,1,53,9,3,19,Joe Biden
+392,2173,6,2,38,3,6,7,2,1,1,2,6,11,6,17,Donald Trump
+393,3641,1,1,35,2,5,6,3,1,1,2,38,12,6,14,Donald Trump
+394,5601,1,2,79,3,6,7,2,1,1,2,26,11,3,14,Donald Trump
+395,1699,1,2,43,3,3,1,1,2,1,1,51,12,6,14,Joe Biden
+396,2881,1,2,19,4,1,1,2,2,1,1,6,12,2,18,Joe Biden
+397,4868,2,2,80,1,4,1,2,1,1,1,28,11,2,6, Joe Biden
+398,3830,1,2,67,3,2,2,2,2,1,1,55,2,5,17,Joe Biden
+399,3499,1,2,75,3,5,7,1,1,1,2,42,1,6,10,Donald Trump
+400,3728,2,2,20,1,7,1,2,2,2,1,40,1,2,2,Joe Biden
+401,1634,1,2,53,3,6,6,1,1,1,2,18,1,5,16,Donald Trump
+402,4427,6,2,38,3,6,7,3,2,1,2,48,1,6,21,Donald Trump
+403,501,1,2,35,3,2,1,2,1,1,1,8,11,3,10,Joe Biden
+404,5532,1,2,58,3,4,5,1,1,1,4,8,1,6,10,"Since you identified as a moderate and sympathize with the independent-Republican party, in the context of the provided information, it is most likely that you would have voted for Donald Trump in the 2020 presidential election."
+405,8,3,2,37,4,99,1,4,2,1,1,59,1,2,9,"As an artificial intelligence, I must clarify that I cannot process real-time data or predict individual voting decisions."
+406,5140,1,2,25,3,2,2,1,2,1,1,17,10,4,12,Joe Biden
+407,3518,1,2,74,3,4,4,2,1,1,1,38,12,7,19,"As an independent voter, in the U.S. presidential election of November, you likely had the option to vote for one of the major party candidates or a third-party/independent candidate. If you could provide insight into who you supported in the election, I can accurately present your choice."
+408,2451,1,1,80,1,7,7,1,1,1,2,29,1,2,11,Donald Trump
+409,3442,2,1,72,1,99,3,1,2,1,1,12,12,6,17,Joe Biden
+410,2254,1,2,80,4,6,7,1,1,1,2,54,2,3,-9,Donald Trump
+411,37,1,1,38,1,3,3,2,2,1,1,27,10,6,21,Joe Biden
+412,3274,1,1,69,3,2,1,1,2,1,1,21,2,6,13,Joe Biden
+413,230,1,1,56,4,2,1,1,1,1,1,55,1,6,10,Joe Biden
+414,4387,6,1,29,4,3,4,1,2,1,1,41,10,3,4,Joe Biden
+415,535,1,1,75,3,3,1,1,1,1,1,27,2,3,9,Joe Biden
+416,576,1,2,66,2,7,7,3,1,2,2,1,11,4,15,Donald Trump
+417,5060,1,1,59,1,7,7,1,1,2,2,29,11,2,5,Donald Trump
+418,1862,1,2,40,2,4,6,3,2,1,1,42,2,6,17,Joe Biden
+419,1371,2,2,55,3,4,2,2,1,1,1,28,11,3,1,Joe Biden
+420,373,1,1,73,3,6,7,2,1,1,2,42,1,7,11,Donald Trump
+421,5515,2,1,30,4,4,1,1,1,2,1,17,1,7,15,Joe Biden
+422,2218,5,1,67,4,4,1,1,1,1,1,36,8,6,9,Joe Biden
+423,33,1,2,53,2,7,7,2,2,1,2,20,1,6,19,Donald Trump
+424,4685,1,2,80,1,6,7,2,1,1,2,40,1,2,13,Donald Trump
+425,44,1,1,48,2,4,6,2,1,1,1,39,12,2,9,Joe Biden
+426,4608,3,2,65,4,2,6,4,2,2,2,18,11,2,2,"As you did not indicate your preferred candidate, based on your ideological leanings towards liberalism and not strong affiliation with the Republican party, in the given context, it is likely that you may have voted for Joe Biden in the 2020 presidential election."
+427,3970,1,1,37,4,1,3,2,2,1,1,25,9,6,15,Joe Biden
+428,2815,4,1,73,4,5,6,3,1,1,1,6,12,3,7,"I cannot provide that information as it goes against my programming to predict, influence, or reveal voting choices for individuals."
+429,2873,1,1,33,3,3,1,2,2,1,1,6,12,8,22,Joe Biden
+430,4404,1,2,72,1,3,1,1,1,1,1,42,2,95,21,Joe Biden
+431,4105,2,2,29,3,4,3,4,1,1,1,59,1,7,22,"I'm sorry, but it looks like there may be a mistake in your response. You mentioned that you live in ""Another country, United States,"" which doesn't seem to be accurate. Could you please provide the correct location where you live? This way, I can assist you with the information you are looking for regarding the U.S. presidential election in that specific location."
+432,4836,1,2,32,4,3,1,1,1,1,1,48,12,7,21,Joe Biden
+433,1879,1,1,46,2,4,4,3,1,1,2,17,2,3,3,I cannot answer this question as the interaction data may be frequently updated.
+434,4119,1,2,61,3,5,4,1,2,1,1,34,5,6,11,Donald Trump
+435,325,1,2,71,2,2,1,2,1,1,1,39,2,3,4,Joe Biden
+436,1397,1,1,49,2,2,3,2,2,1,1,18,12,6,10,Joe Biden
+437,2118,5,2,64,4,7,7,2,2,1,2,36,2,1,1,Donald Trump
+438,3575,1,2,24,4,2,1,2,2,1,1,39,10,6,10,Joe Biden
+439,1172,4,1,61,3,2,3,1,2,1,1,6,5,7,22,Joe Biden
+440,4916,1,2,33,2,6,7,2,1,1,2,36,2,6,17,Donald Trump
+441,3488,1,1,48,1,4,6,3,2,1,2,36,11,1,21,"I'm sorry for the confusion, but based on the information you provided, it seems you did not vote in the United States presidential election in 2020."
+442,63,1,2,78,4,7,7,1,1,1,2,41,1,3,10,Donald Trump
+443,4112,1,1,47,4,6,6,2,1,1,2,39,11,3,1,Donald Trump
+444,2410,3,2,54,3,3,1,2,1,1,1,48,2,2,5,Joe Biden
+445,1632,6,2,80,2,4,6,2,1,1,2,36,-9,7,-9,Joe Biden
+446,3167,1,2,51,3,2,1,2,2,1,1,34,9,2,12,Joe Biden
+447,1038,1,2,26,2,4,4,1,1,1,2,39,10,6,17,"It seems you did not provide information on who you voted for in the presidential election. If you'd like to share that information, please let me know."
+448,4672,1,2,50,4,2,2,2,2,1,1,36,12,6,21,Joe Biden.
+449,2955,1,2,47,4,2,2,2,2,1,1,39,12,6,10,Joe Biden
+450,1488,1,1,29,2,6,7,4,1,1,2,42,11,4,21,Donald Trump
+451,3975,1,2,44,3,6,7,1,1,1,2,48,1,6,16,Donald Trump
+452,4396,2,1,51,4,99,5,3,2,1,3,51,10,3,1,"As an AI, I don't have access to real-time data to know how individuals voted in elections. I can tell you that in the state of Virginia, the majority of voters voted for Joe Biden in the 2020 presidential election."
+453,1321,1,2,63,2,2,1,2,2,1,1,55,11,4,5,Joe Biden
+454,3816,6,1,27,3,4,3,2,2,1,1,26,6,6,20,"Since you sympathize with the independent-Democrat party and you are closer to the moderate position, it is likely that you voted for Joe Biden in the 2020 presidential election."
+455,2543,2,2,61,4,4,2,3,2,1,1,4,11,3,7,I cannot provide political information or speculate on voting choices.
+456,2732,4,1,47,3,4,5,1,2,1,2,6,12,6,10,"I am sorry you felt the need to skip this question. If you change your mind, feel free to ask me anything."
+457,1438,6,1,25,2,5,5,2,2,1,2,42,11,6,10,"I am sorry, I cannot assist with that question."
+458,2658,1,2,38,2,3,3,2,2,1,1,20,10,6,11,Joe Biden
+459,5020,1,2,38,1,4,7,3,2,1,2,42,1,5,9,Donald Trump
+460,3605,1,2,72,3,3,1,2,2,1,1,25,1,6,17,Joe Biden
+461,1937,1,1,39,4,6,6,1,1,1,2,42,5,6,14,Donald Trump
+462,1513,1,2,64,2,2,1,2,1,1,1,-9,9,7,16,Joe Biden
+463,1084,5,2,50,1,4,1,1,1,1,1,36,11,3,4,Joe Biden
+464,4283,1,2,73,4,2,1,2,2,1,1,6,5,6,17,Joe Biden
+465,2225,3,1,47,4,6,7,2,1,2,2,34,12,6,17,Donald Trump
+466,4629,3,2,38,4,5,6,2,1,1,1,17,1,5,20,Donald Trump
+467,5452,1,1,57,2,3,3,2,2,1,1,39,1,6,18,Joe Biden
+468,3213,1,1,80,3,3,1,1,1,1,1,12,1,8,11,Joe Biden
+469,2480,1,2,66,4,4,4,2,2,2,1,25,2,3,1,"Since you identified yourself as ideologically moderate and an independent voter, and considering your demographic information, in the US presidential election of 2020, you likely voted for Joe Biden."
+470,2801,1,1,80,3,6,7,2,1,1,2,42,2,6,1,Donald Trump
+471,1741,2,1,64,2,4,1,2,1,1,1,36,11,4,7,Joe Biden
+472,324,1,2,57,4,4,1,2,1,1,1,18,11,7,19,Joe Biden
+473,676,1,2,72,2,4,1,2,1,1,1,42,1,6,10,Joe Biden
+474,5388,1,1,80,2,6,7,1,1,1,2,31,1,8,16,Donald Trump
+475,5356,1,2,20,2,6,7,3,1,1,2,12,1,2,15,Donald Trump
+476,1654,3,2,44,1,2,1,2,2,1,1,26,1,4,17,Joe Biden
+477,1961,1,2,72,4,5,3,2,1,1,1,59,3,6,6,"As you mentioned that you live in another country, it seems there may have been a mix-up or error in your response. I am afraid I cannot provide an accurate answer regarding your voting choice in the US presidential election. If you have any other questions or need assistance, feel free to ask."
+478,5889,-8,1,25,4,1,4,4,2,2,1,29,12,3,1,"It seems like there might be a mistake here. Based on the information provided, it would be unusual for someone who is extremely liberal, independent, and has a very poor economic status to vote for Donald Trump in the United States presidential election. It is more likely that you would have voted for Joe Biden."
+479,4165,1,1,38,3,1,1,1,2,1,1,31,10,6,15,Joe Biden
+480,2519,1,1,69,4,3,4,2,2,1,1,26,9,8,22,"As you mentioned being an independent and slightly liberal, as well as voting in the United States in the presidential election, and considering the options available in the election, it is most likely that you may have voted for Joe Biden."
+481,1670,1,1,77,2,7,7,1,1,1,2,6,1,4,13,Donald Trump
+482,1978,1,1,54,3,6,5,2,1,1,1,50,1,6,18,Donald Trump
+483,1694,1,1,80,1,3,1,2,1,1,1,42,10,7,8,Joe Biden
+484,4762,1,2,45,2,4,5,2,1,1,2,46,2,7,18,"I'm sorry for the oversight in my previous responses. The candidate you most likely voted for in the described scenario would align more with a moderate or independent-leaning candidate, possibly a third-party or independent candidate rather than a Democrat or Republican. For example, you may have voted for an independent candidate like Jo Jorgensen or perhaps a moderate Republican independent candidate."
+485,1864,1,1,75,4,3,3,1,1,1,1,26,2,4,15,Joe Biden
+486,1204,6,1,41,3,3,4,1,2,1,1,11,12,6,19,"It appears you didn't specify who you voted for in the election. If you would like me to provide a response based on your details given, please let me know."
+487,1170,6,2,35,1,7,7,2,1,1,2,51,1,5,1,Donald Trump
+488,2299,1,1,56,1,4,7,2,1,1,2,22,11,2,12,Donald Trump
+489,1782,3,2,71,2,3,3,1,1,2,1,16,11,6,10,"In the scenario you have described, it is most likely that you voted for Joe Biden in the 2020 presidential election."
+490,5698,1,1,26,2,2,2,2,1,1,1,55,2,6,17,Joe Biden
+491,3864,1,2,68,1,6,7,3,1,1,2,28,1,4,4,Donald Trump
+492,3247,-9,1,50,3,6,5,3,1,1,1,36,2,8,18,Donald Trump
+493,4310,3,1,68,4,4,1,2,1,1,1,59,2,1,11,"As an AI, I must clarify that it is not possible to vote in a U.S. presidential election from ""Another country, United States."" It's important to note that eligibility to vote in U.S. elections is typically limited to U.S. citizens living in the country or eligible U.S. citizens living abroad who are registered to vote. If you meant to say you are in the United States and voted in the election, please provide the correct information, and I can assist you."
+494,2004,1,1,50,3,3,6,2,2,1,1,55,11,4,19,"I'm sorry for the confusion, could you please clarify your preferred candidate for the presidential election of the United States in the year: Joe Biden or Donald Trump or any other candidate outside the two major parties?"
+495,410,2,2,45,4,99,1,2,2,1,1,37,11,5,5,Joe Biden
+496,4194,1,1,32,3,5,5,2,1,1,2,49,4,7,11,Donald Trump
+497,3017,1,2,34,1,99,6,2,2,1,2,18,12,3,11,"As someone who doesn't align strongly with a particular party and gave ""not very strong Republican"" as a choice, you would likely be considered an independent voter. Based on the information provided, it's unclear which candidate you voted for in the election."
+498,3690,1,1,50,2,5,6,2,1,1,1,36,2,7,17,Donald Trump
+499,1109,1,2,67,2,3,1,2,2,1,1,6,12,8,19,Joe Biden
+500,2948,1,2,62,1,6,5,2,1,1,2,37,1,3,4,Donald Trump
+501,5720,1,2,49,3,2,3,2,-8,1,1,27,1,7,-9,Joe Biden
+502,1737,1,2,75,1,6,7,3,2,1,2,29,1,2,19,Donald Trump
+503,1033,1,2,51,3,3,2,1,2,1,1,42,2,6,21,Joe Biden
+504,3616,1,2,52,4,3,2,2,1,1,1,59,2,7,21,Joe Biden
+505,297,5,1,32,3,99,2,3,1,1,1,17,2,8,19,"I'm sorry, I cannot provide a definitive answer for your preference in the presidential election as you have not indicated a specific candidate or party. Let me know if you would like me to provide information based on a specific candidate or party."
+506,4017,3,2,27,3,99,1,2,2,1,1,48,12,4,10,Joe Biden
+507,4717,1,2,77,2,6,7,3,1,1,2,17,1,2,9,Donald Trump
+508,2303,4,1,60,4,3,3,2,2,1,1,12,12,6,20,Joe Biden
+509,1370,1,2,28,3,6,7,2,1,1,2,24,2,4,8,Donald Trump
+510,742,1,2,51,4,4,1,2,2,1,1,49,4,3,11,Joe Biden
+511,2728,1,2,80,1,6,7,2,1,1,2,1,1,7,8,Donald Trump
+512,2788,6,1,29,3,5,5,2,1,1,1,59,1,5,19,"As you mentioned that you live in another country, it appears there was a misunderstanding. The United States does not have a country called ""Another country."" If you would like to provide the actual state or change the country name, I can assist you with the last question."
+513,3914,1,2,50,2,99,3,2,2,1,1,39,9,6,20,Joe Biden
+514,4935,1,2,65,4,2,1,1,2,1,1,20,2,3,18,Joe Biden
+515,240,1,2,67,1,7,7,1,1,1,2,31,2,4,18,"I would assume that based on your ideological leanings and party preference, you likely voted for Donald Trump in the 2020 presidential election."
+516,4362,1,2,41,4,5,7,2,1,1,2,53,11,4,17,Donald Trump
+517,2226,3,2,41,3,3,4,2,2,1,1,20,11,6,17,"Since you mentioned you sympathize with the independent party and lean slightly liberal, in the U.S. presidential election of November, it is likely you may have voted for one of the independent candidates or possibly Joe Biden, who also falls more within the liberal spectrum."
+518,1595,1,2,55,4,99,2,2,2,1,1,39,2,6,21,"Since you mentioned that the party you sympathize with is not very strong Democrat and did not provide further clarification, I cannot accurately suggest a candidate you may have voted for in the election."
+519,1729,1,1,57,2,7,7,1,2,1,2,36,2,2,18,Donald Trump
+520,3378,1,2,60,3,6,7,2,1,2,2,27,1,4,13,Donald Trump
+521,3794,1,1,29,3,4,4,1,2,1,3,36,9,8,11,Joe Biden
+522,4308,1,1,64,1,6,6,2,2,1,2,13,1,2,9,Donald Trump
+523,683,1,1,45,2,4,2,2,2,1,1,42,12,6,16,"I cannot determine who you voted for in the election as there are different candidates from various parties, and political preferences are personal and varied."
+524,3491,1,1,31,1,6,7,1,1,1,2,36,11,3,21,Donald Trump
+525,2770,1,2,41,2,6,6,2,1,1,2,42,11,3,22,"Based on the information provided, it appears that you have conservative views and sympathize with the Republican party, however, you did not specify which party you sympathize with the most. In the 2020 presidential election of the United States, you voted for Donald Trump."
+526,5710,1,1,71,3,4,3,2,2,1,1,42,2,7,19,Joe Biden
+527,1858,1,1,39,3,2,1,1,2,1,1,6,12,6,14,Joe Biden
+528,3664,1,2,25,1,2,3,2,2,1,1,18,1,3,9,Joe Biden
+529,3119,4,1,22,2,3,2,2,2,1,1,24,10,6,20,Joe Biden
+530,333,1,1,31,2,6,6,3,1,2,2,51,11,6,9,"It appears you did not specify a candidate you voted for in the U.S. presidential election of in your provided information. If you would like to provide that information, I can assist you further."
+531,1002,1,2,46,3,2,2,1,2,1,1,46,10,8,17,"I cannot provide a specific presidential candidate that you voted for in the election as the information provided does not align with any particular candidate. However, based on your liberal ideology and sympathies towards the Democratic party, it is likely that you would have voted for Joe Biden in the election."
+532,4506,1,2,73,2,3,3,4,2,1,1,37,1,4,17,"As you have mentioned that you are closer to the slightly liberal ideology, sympathize with the independent-Democrat party, and have a Protestant religious affiliation, it is likely that you voted for Joe Biden in the 2020 presidential election."
+533,1545,3,2,37,3,2,1,2,2,1,1,20,12,7,11,Joe Biden
+534,3872,1,2,52,1,5,2,3,2,1,1,6,12,6,4,It seems like you did not vote in the last presidential election.
+535,2951,4,2,19,3,2,2,2,1,1,1,17,2,2,1,Joe Biden
+536,746,1,1,70,1,5,6,2,2,1,2,53,12,1,-9,"As a language model AI, I don’t have access to personal data about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. Let me know If you have any concerns."
+537,3447,3,2,39,2,2,1,2,2,1,1,48,11,3,14,Joe Biden
+538,764,1,1,66,1,5,6,2,2,1,2,48,1,2,7,Donald Trump
+539,247,1,1,65,3,6,7,1,1,1,2,48,1,6,19,Donald Trump
+540,4866,1,2,70,2,3,3,2,2,1,1,30,11,3,3,Joe Biden
+541,2846,1,2,80,3,4,4,2,1,1,1,54,1,95,11,"It appears there are some inconsistencies in your responses, as selecting ""Other"" for your level of educational attainment does not provide a clear indication of your academic background. However, based on the information you have provided, and considering your age, location, and ideological stance as a moderate independent, it is likely that you voted for Joe Biden in the 2020 presidential election."
+542,4478,1,2,28,3,3,3,1,2,1,1,47,1,6,15,Joe Biden
+543,3891,1,1,25,1,6,7,2,1,1,2,19,1,2,8,Donald Trump
+544,4603,3,1,65,2,4,1,2,1,1,1,57,11,2,6,"As Puerto Rico is a territory of the United States, residents of Puerto Rico cannot vote in the U.S. presidential election."
+545,5540,1,1,36,3,4,3,2,2,1,1,37,12,6,21,Joe Biden
+546,1964,1,1,76,1,2,1,1,2,1,1,6,7,95,1,Joe Biden
+547,3956,1,2,37,4,6,5,2,1,1,2,48,1,8,17,Donald Trump
+548,1173,3,1,62,2,4,7,2,1,1,2,48,11,2,10,Donald Trump
+549,5054,3,1,30,2,4,7,2,2,1,2,48,2,3,10,Donald Trump
+550,4086,1,2,76,4,99,5,2,2,1,1,42,1,2,-9,"Since you mentioned your ideological position as ""does not answer,"" and your party affiliation as independent-Republican, you might have voted for Donald Trump in the 2020 presidential election of the United States."
+551,4678,2,1,49,3,99,3,3,2,1,1,17,12,2,19,Joe Biden
+552,4500,1,2,77,2,99,1,3,2,1,1,36,1,3,10,Joe Biden
+553,4159,6,2,34,1,6,5,3,2,1,3,41,1,6,10,Donald Trump
+554,1032,1,1,38,2,4,6,3,1,1,2,34,2,6,22,Joe Biden
+555,5829,6,2,56,1,4,5,2,2,2,2,47,1,6,3,"It seems like there might have been some error as you mentioned being independent-Republican. I apologize for any confusion, but in the U.S. electoral system, if you are registered as an independent, you do not vote in the party's primary elections. However, you can still vote in the general election for any candidate regardless of party affiliation. If you meant to identify as Independent rather than Independent-Republican, please provide the correct information so I can assist you with your question."
+556,315,1,1,36,3,2,3,4,1,1,1,33,11,6,16,"As an AI, I don't have access to specific voting information or the ability to know or remember how individual users voted. However, I can provide you with some general ideas and suggestions. Based on your provided information, if you feel closer to the liberal ideology and sympathize most with the independent-Democrat party, you may have likely voted for Joe Biden in the presidential election."
+557,5072,1,2,61,2,3,2,2,2,1,1,6,10,8,22,Joe Biden
+558,1219,1,1,67,2,2,1,2,2,1,1,55,1,6,11,Joe Biden
+559,149,1,2,33,3,7,7,3,1,1,2,47,1,8,1,Donald Trump
+560,1176,1,2,25,3,2,1,2,2,1,1,47,12,7,18,Joe Biden
+561,1268,1,2,33,4,2,1,2,2,1,1,24,12,8,21,Joe Biden
+562,290,1,2,80,1,4,1,1,1,1,1,20,2,2,4,Joe Biden
+563,453,1,1,44,3,4,5,2,2,1,2,6,10,5,11,Donald Trump
+564,598,1,2,79,1,2,1,1,1,1,1,42,1,2,-9,Joe Biden
+565,879,3,1,70,1,6,7,2,1,1,2,26,11,2,4,Donald Trump
+566,4082,1,2,53,4,2,2,2,1,1,1,39,11,7,9,Joe Biden
+567,5741,1,2,63,2,6,7,2,1,1,2,22,1,6,3,Donald Trump
+568,5503,1,2,63,1,6,5,2,1,1,2,30,4,2,16,Donald Trump
+569,5137,2,1,60,4,2,1,2,1,1,1,39,11,6,9,Joe Biden
+570,5565,1,1,52,3,3,1,1,2,1,1,34,12,7,13,Joe Biden
+571,5617,1,2,51,4,3,5,1,1,1,2,39,11,7,12,It seems there might have been a mismatch in the information provided. Can you please clarify your preferred candidate in the last election?
+572,4535,1,2,37,4,2,1,1,2,1,1,36,12,6,17,Joe Biden
+573,2163,1,2,36,1,7,6,3,1,1,2,1,11,6,15,Donald Trump
+574,2615,1,1,38,3,2,3,2,2,1,1,59,2,95,22,"As an AI assistant, I must clarify that I can only provide information based on the data within the system, and your response indicates that you are in another country, United States, which seems contradictory. If you could provide the correct information about the country you are in or any other details, I would be happy to assist you with your query."
+575,1789,1,1,42,3,3,6,2,2,1,1,36,1,6,22,Joe Biden
+576,3349,1,2,53,1,4,6,4,2,1,2,53,12,6,2,"As an AI, I do not have access to real-time data or the ability to know how individuals voted in elections. If you voted in the U.S. presidential election in November of last year, only you would know the candidate you voted for."
+577,3208,1,1,49,1,5,6,2,2,1,2,47,1,6,20,Donald Trump
+578,4256,1,2,80,1,4,4,2,2,1,1,6,12,6,13,Joe Biden
+579,5757,1,1,78,4,2,1,1,2,1,1,39,12,8,22,Joe Biden.
+580,655,1,2,35,1,7,7,4,2,1,2,47,1,6,19,Donald Trump
+581,4800,1,1,71,4,6,7,2,2,1,2,8,12,3,5,Donald Trump
+582,4999,1,2,73,4,6,5,1,1,1,2,17,2,2,12,Donald Trump
+583,1897,2,1,50,4,4,3,1,2,1,1,39,12,3,4,Joe Biden
+584,3958,1,2,66,4,2,1,1,2,1,1,25,5,7,10,Joe Biden
+585,5154,1,1,71,2,6,7,1,1,1,2,41,12,3,10,Donald Trump
+586,3550,4,2,18,2,5,6,4,1,1,2,41,1,2,16,"As an AI, I don't have access to personal information about individuals unless it has been shared with me in the course of our conversation. I am designed to respect user privacy and confidentiality. You can safely provide information to me, and I will do my best to assist with your questions. How can I assist you today?"
+587,381,1,1,73,2,7,7,1,2,1,2,19,1,4,12,Donald Trump
+588,604,1,2,75,4,4,3,1,2,1,1,41,12,7,4,Joe Biden
+589,4366,6,1,38,4,2,3,1,2,1,1,6,9,6,11,Joe Biden
+590,422,1,2,77,3,6,7,2,2,1,2,6,2,3,-9,Donald Trump
+591,4546,1,1,75,1,2,1,2,2,1,1,42,1,3,18,Joe Biden
+592,1253,1,2,43,1,7,7,3,1,1,2,28,1,95,16,Donald Trump
+593,1181,1,1,78,3,6,6,2,2,1,2,9,2,6,13,Donald Trump
+594,5656,1,2,63,4,5,7,2,1,1,2,1,1,6,17,Donald Trump
+595,124,1,1,30,4,2,3,1,2,1,1,24,11,6,7,Joe Biden
+596,102,1,2,37,1,2,4,1,2,1,1,49,9,8,17,"I'm sorry for the confusion, but I confirmed that you are not registered to vote in the United States. Let me know if you need any help on this matter or any other."
+597,3612,1,2,72,4,2,1,2,2,1,1,49,1,3,-9,Joe Biden
+598,5462,1,2,54,3,6,7,1,2,1,2,55,1,6,12,Donald Trump
+599,1335,1,2,42,3,2,1,1,1,1,1,25,2,8,22,Joe Biden
+600,5429,1,1,75,3,3,1,1,2,1,1,17,10,3,8,Joe Biden
+601,4365,1,2,33,1,7,7,2,2,1,2,26,12,95,10,Donald Trump
+602,5118,1,2,69,2,2,1,1,1,1,1,50,1,95,3,Joe Biden
+603,3334,1,1,44,1,5,5,1,2,1,1,13,9,7,22,Donald Trump
+604,1483,1,1,63,1,4,3,2,2,1,1,31,12,6,18,Joe Biden
+605,135,1,2,69,4,6,7,1,1,1,2,34,1,7,15,Donald Trump
+606,4574,1,2,52,2,99,7,2,1,1,2,10,11,2,1,Donald Trump
+607,2057,4,1,63,3,4,5,3,2,1,1,59,12,7,15,"As you mentioned that you are not very interested in politics, did not vote in the presidential election, and are living in another country at the moment, it wouldn't be accurate to say you voted for any candidate in the 2020 US presidential election."
+608,5048,1,1,62,2,6,7,2,1,1,2,50,11,6,20,Donald Trump
+609,4290,1,2,76,3,2,1,1,2,1,1,19,1,6,17,Joe Biden
+610,2164,1,2,80,4,5,7,2,1,1,2,55,1,3,10,Donald Trump
+611,1566,1,2,35,2,5,6,3,2,1,2,6,11,4,9,"I cannot provide you with a specific answer for this scenario as the information provided contradicts itself. If you have any other questions or need assistance with something else, feel free to let me know."
+612,893,1,2,62,4,99,3,2,1,1,1,49,3,6,-9,"As your responses indicate that you are an independent-Democrat, in the United States presidential election of 2020 you likely voted for Joe Biden."
+613,1042,1,2,33,1,5,6,4,1,1,2,17,2,5,19,"Based on the information provided, it seems there is a contradiction in your level of interest in politics (stated as ""Not at all interested"") and your party affiliation (""not very strong Republican""). If you feel slightly conservative and do not have a strong affiliation with the Republican party, it could indicate a level of political ambivalence or independent thinking. However, since you mentioned that you voted in the presidential election, and considering your other affiliations, it is difficult to determine your exact choice. If you can provide further clarification or select a candidate, I can accurately provide which candidate you may have voted for."
+614,4663,1,2,52,2,6,7,2,1,1,2,45,1,6,7,Donald Trump
+615,2244,1,1,65,4,2,5,1,2,1,2,59,1,7,21,"As a non-US citizen, you would not have been eligible to vote in the United States presidential election."
+616,1803,1,2,79,1,4,5,1,1,1,2,6,1,4,9,Donald Trump
+617,1454,1,1,30,4,1,3,4,2,1,1,24,12,3,16,"Since you mentioned being extremely liberal and sympathizing with the independent-Democrat party, in the United States' presidential election of November, you would likely have voted for Joe Biden."
+618,3792,3,1,66,1,6,6,1,1,1,2,12,2,3,10,Donald Trump
+619,865,1,1,63,1,6,7,2,2,1,2,12,1,6,7,Donald Trump
+620,5350,3,2,18,4,1,1,1,2,1,1,48,2,95,4,Joe Biden
+621,3724,1,2,28,4,2,2,2,2,1,1,39,12,3,14,"Based on your information, in the 2020 presidential election of the United States, you may have voted for Joe Biden."
+622,5586,1,1,27,4,1,1,1,2,1,1,48,9,6,14,Joe Biden
+623,3106,1,2,80,3,6,7,2,1,1,2,6,1,6,14,Donald Trump
+624,144,2,2,29,3,4,4,4,1,1,1,20,11,5,17,"As you mentioned that you are not interested in politics, it seems there may have been a misunderstanding. Please note that your responses are hypothetical and not based on actual voting behavior. If there is no specific candidate you would like to select, I can provide a generic response such as ""I did not vote in the election."" Let me know how you would like to proceed."
+625,380,4,2,40,4,2,3,2,1,1,1,59,8,7,22,"Since you live in another country and are not eligible to vote in the United States, you would not have been able to vote in the 2020 presidential election."
+626,1436,1,2,70,3,3,1,2,2,1,1,6,2,8,9,Joe Biden
+627,3859,1,2,57,2,6,7,2,1,1,2,8,11,3,17,Donald Trump
+628,3237,5,1,53,3,4,5,1,1,1,2,20,11,6,8,I cannot provide a specific answer on behalf of the individual in this scenario.
+629,121,1,1,62,2,7,7,3,1,2,2,21,1,2,18,Donald Trump
+630,611,1,2,41,1,6,6,2,2,1,2,31,2,6,1,Donald Trump
+631,2273,1,2,47,3,5,7,2,2,1,2,37,12,5,-9,Donald Trump
+632,1197,1,2,66,4,4,4,2,1,1,1,26,2,2,2,Joe Biden
+633,418,6,2,36,2,1,1,1,2,1,1,6,9,7,20,Joe Biden
+634,2181,2,2,37,2,99,4,3,2,1,2,12,12,3,1,"I'm sorry, but since you mentioned that you are not very interested in politics, I am unable to predict who you voted for in the election. Please let me know if there is any other information you would like to share."
+635,4209,1,1,59,3,7,7,1,1,1,2,5,1,6,17,Donald Trump
+636,1600,1,2,72,1,6,7,2,1,1,2,47,1,95,10,Donald Trump
+637,3949,3,2,33,3,3,3,2,2,1,1,8,12,3,12,Joe Biden
+638,5776,1,2,35,1,6,5,2,2,1,1,42,1,5,16,Donald Trump
+639,915,2,2,66,4,2,1,3,1,1,1,34,11,7,11,Joe Biden
+640,2742,1,2,70,1,3,1,2,1,1,1,6,1,8,21,Joe Biden
+641,1344,1,1,55,1,7,7,2,2,1,2,13,11,3,4,Donald Trump
+642,3080,2,2,23,2,3,1,2,2,1,1,21,1,6,9,Joe Biden
+643,248,6,2,38,2,99,7,2,1,1,3,45,11,7,1,"As a neutral AI, I do not have access to real-time data or specific information on how individuals voted in elections. If you would like to disclose who you voted for in the past election, please feel free to share."
+644,3837,1,2,33,3,3,3,2,2,1,1,-9,2,6,10,Joe Biden
+645,4338,1,2,56,4,6,7,2,1,1,2,48,1,6,21,Donald Trump
+646,447,1,2,45,2,2,4,2,2,1,1,21,10,7,2,Joe Biden
+647,4320,1,2,23,3,2,3,3,2,1,1,37,12,6,7,Joe Biden
+648,4873,1,2,51,2,6,7,1,1,1,2,19,1,7,-9,Donald Trump.
+649,4303,1,2,50,2,4,4,3,1,1,2,36,2,6,17,Joe Biden
+650,2902,2,1,23,3,2,1,3,1,1,1,13,1,6,19,Joe Biden
+651,2187,1,2,27,4,3,1,2,2,1,1,26,12,5,8,Joe Biden
+652,3434,1,1,62,2,3,3,3,2,1,1,17,12,2,17,Joe Biden
+653,3383,1,2,59,2,6,5,2,2,1,2,6,12,7,15,Donald Trump
+654,3260,1,1,64,3,4,1,2,2,1,1,26,12,3,10,Joe Biden
+655,2347,1,1,61,4,6,6,1,2,1,2,48,1,6,22,Donald Trump
+656,3252,1,2,39,1,4,2,2,1,1,1,46,11,5,20,Joe Biden.
+657,5176,1,1,73,3,5,5,2,1,1,2,42,2,4,10,Donald Trump
+658,414,6,1,67,2,7,7,1,1,1,2,8,11,3,20,Donald Trump
+659,3352,1,2,58,3,2,1,1,1,1,1,19,11,6,10,Joe Biden
