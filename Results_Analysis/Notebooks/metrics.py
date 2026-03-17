@@ -225,7 +225,7 @@ def metrics_dataset_gen_chile(df, pred_variable, pred_column_name="pred", n_opti
   group_names = ["Woman", "Man", "Young adult", "Adult", "Senior adult", "Metropolitan region", \
          "Other region", "Indigenous people", "Non-indigenous people", 'None (indigenous)', \
          "Low Education", "Medium Education", "High Education", "None (education)",\
-         "High Class", "Middle Class", "Low Class","Left", "Center", "Right", "No ideology", \
+         "Low Class", "Middle Class", "High Class","Left", "Center", "Right", "No ideology", \
          "Religious", "Atheist/agnostic", 'No religion response']
 
   base_columns = ["Group", "JSD", "Accuracy", "Harmonic Mean", "JSS", "Kappa"]
@@ -261,9 +261,9 @@ def metrics_dataset_gen_chile(df, pred_variable, pred_column_name="pred", n_opti
   metrics_df.loc[12] = [group_names[12]] + metrics_group_chile(df, "esc_nivel_1", "high education", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
   metrics_df.loc[13] = [group_names[13]] + metrics_group_chile(df, "esc_nivel_1", "none", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
 
-  metrics_df.loc[14] = [group_names[14]] + metrics_group_chile(df, "gse", "high class", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[14] = [group_names[14]] + metrics_group_chile(df, "gse", "poor class", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
   metrics_df.loc[15] = [group_names[15]] + metrics_group_chile(df, "gse", "middle class", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
-  metrics_df.loc[16] = [group_names[16]] + metrics_group_chile(df, "gse", "poor class", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
+  metrics_df.loc[16] = [group_names[16]] + metrics_group_chile(df, "gse", "high class", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
 
   metrics_df.loc[17] = [group_names[17]] + metrics_group_chile(df, "iden_pol_2", "left", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
   metrics_df.loc[18] = [group_names[18]] + metrics_group_chile(df, "iden_pol_2", "center", pred_variable, pred_column_name, n_options, **bootstrap_kwargs)
@@ -372,7 +372,7 @@ def quantities_per_option_per_group(df, column, options):
   names = ["Woman", "Man", "Young adult", "Adult", "Senior adult", "Metropolitan region", \
          "Other region", "Indigenous people", "Non-indigenous people",  \
          "Low Education", "Medium Education", "High Education",\
-         "High Class", "Middle Class", "Low Class","Left", "Center", "Right", "No ideology", \
+         "Low Class", "Middle Class", "High Class","Left", "Center", "Right", "No ideology", \
          "Religious", "Atheist/agnostic"]
 
   quantities_df.loc[0] = [names[0]] + quantity_per_option_in_sociodemografic_group(df, "sexo", 2, column, n_options)
@@ -392,9 +392,9 @@ def quantities_per_option_per_group(df, column, options):
   quantities_df.loc[10] = [names[10]] + quantity_per_option_in_sociodemografic_group(df, "esc_nivel_1", "medium education", column, n_options)
   quantities_df.loc[11] = [names[11]] + quantity_per_option_in_sociodemografic_group(df, "esc_nivel_1", "high education", column, n_options)
 
-  quantities_df.loc[12] = [names[12]] + quantity_per_option_in_sociodemografic_group(df, "gse", "high class", column, n_options)
+  quantities_df.loc[12] = [names[12]] + quantity_per_option_in_sociodemografic_group(df, "gse", "poor class", column, n_options)
   quantities_df.loc[13] = [names[13]] + quantity_per_option_in_sociodemografic_group(df, "gse", "middle class", column, n_options)
-  quantities_df.loc[15] = [names[14]] + quantity_per_option_in_sociodemografic_group(df, "gse", "poor class", column, n_options)
+  quantities_df.loc[14] = [names[14]] + quantity_per_option_in_sociodemografic_group(df, "gse", "high class", column, n_options)
 
   quantities_df.loc[15] = [names[15]] + quantity_per_option_in_sociodemografic_group(df, "iden_pol_2", "left",column, n_options)
   quantities_df.loc[16] = [names[16]] + quantity_per_option_in_sociodemografic_group(df, "iden_pol_2", "center", column, n_options)

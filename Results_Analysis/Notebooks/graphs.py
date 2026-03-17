@@ -56,7 +56,7 @@ def distribution_of_votes_per_group_graph(df, column_name, options, title):
     percentages_df["Group"] = ["Woman", "Man", "Young adult", "Adult", "Senior adult", "Metropolitan region", \
                                 "Other region", "Indigenous people", "Non-indigenous people", \
                                 "Low Education", "Medium Education", "High Education",\
-                                "High Class", "Middle Class", "Low Class","Left", "Center", "Right", "No ideology", \
+                                "Low Class", "Middle Class", "High Class","Left", "Center", "Right", "No ideology", \
                                 "Religious", "Atheist/agnostic"]
 
     vapeplot.set_palette('jazzcup')
